@@ -1,5 +1,5 @@
 # big-brother-diversity-data
-Full dataset containing demographic and gameplay data of every Big Brother US contestant, Season 1 - Season 21
+Full dataset containing demographic and gameplay data for every Big Brother US contestant, Season 1 - Season 21
 
 **big_brother_data.csv:** 
 Record for every player. Fields include basic demographic information, special demographic information (race/ethnicity, sexual orientation, etc.), and gameplay tallies (total wins, total nominations, days in game, etc).
