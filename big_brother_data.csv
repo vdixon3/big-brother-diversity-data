@@ -1,0 +1,398 @@
+first,last,index,season_code,installment,brand,brand_season,year,total_houseguests,total_days,age,age_group,gender,oringal_race_ethnicity,race_ethnicity,latinx_hispanic,biracial,biracial_one,biracial_two,lgbts,person_with_disability,hometown,homestate,appearance,comeback_sequester,came_back,first_eviction_day,first_eviction_week,day_of_comeback_sequester_end,days_of_comeback_sequesters,weeks_of_comeback_sequester,made_jury,days_of_jury_sequester,final_eviction_day,final_eviction_week,days_in_game_including_sequester,total_days_in_game_excluding_sequester,weeks_in_game_including_sequester,weeks_in_game_excluding_sequester,afp,ejected,self_evicted,total_vetos,total_hoh,other_comp_wins,total_nominations,total_wins,final_placement,placement_rank_percent
+Brittany,Petros,1,bbus1,1,regular,1,2000,10,88,25,20-somethings,female,white,white,no,no,na,na,straight,no,robbinsdale,MN,1,no,no,57,8,na,na,na,na,0,57,9,57,57,8.14,8.14,na,no,no,na,na,0,1,0,7,0.70
+Cassandra,Waldon,2,bbus1,1,regular,1,2000,10,88,37,30-somethings,female,black,black,no,no,na,na,straight,no,new york city,NY,1,no,no,71,10,na,na,na,na,0,71,11,71,71,10.14,10.14,na,no,no,na,na,0,3,0,6,0.60
+Curtis,Kin,3,bbus1,1,regular,1,2000,10,88,28,20-somethings,male,asian,asian,no,no,na,na,straight,no,new york city,NY,1,no,no,88,13,na,na,na,na,0,88,13,88,88,12.57,12.57,na,no,no,na,na,0,6,0,3,0.30
+Eddie,McGee,4,bbus1,1,regular,1,2000,10,88,21,20-somethings,male,white,white,no,no,na,na,straight,yes,long island,NY,1,no,no,88,13,na,na,na,na,0,88,13,88,88,12.57,12.57,na,no,no,na,na,0,5,0,1,0.10
+George,Boswell,5,bbus1,1,regular,1,2000,10,88,41,40-somethings,male,white,white,no,no,na,na,straight,no,rockford,IL,1,no,no,78,11,na,na,na,na,0,78,12,78,78,11.14,11.14,na,no,no,na,na,0,2,0,5,0.50
+Jamie,Kern,6,bbus1,1,regular,1,2000,10,88,22,20-somethings,female,white,white,no,no,na,na,straight,no,seattle,WA,1,no,no,85,12,na,na,na,na,0,85,13,85,85,12.14,12.14,na,no,no,na,na,0,2,0,4,0.40
+Jean,Jordan,7,bbus1,1,regular,1,2000,10,88,26,20-somethings,female,white,white,no,no,na,na,straight,no,roanoke,VA,1,no,no,29,4,na,na,na,na,0,29,5,29,29,4.14,4.14,na,no,no,na,na,0,0,0,9,0.90
+Josh,Souza,8,bbus1,1,regular,1,2000,10,88,23,20-somethings,male,white,white,no,no,na,na,straight,no,santa maria,CA,1,no,no,88,13,na,na,na,na,0,88,13,88,88,12.57,12.57,na,no,no,na,na,0,4,0,2,0.20
+Karen,Fowler,9,bbus1,1,regular,1,2000,10,88,43,40-somethings,female,white,white,no,no,na,na,straight,no,columbus,IN,1,no,no,43,6,na,na,na,na,0,43,7,43,43,6.14,6.14,na,no,no,na,na,0,1,0,8,0.80
+William,Collins,10,bbus1,1,regular,1,2000,10,88,27,20-somethings,male,black,black,no,no,na,na,straight,no,philadelphia,PA,1,no,no,16,2,na,na,na,na,0,16,3,16,16,2.29,2.29,na,no,no,na,na,0,1,0,10,1.00
+Will,Kirby,11,bbus2,2,regular,2,2001,12,82,28,20-somethings,male,white,white,no,no,na,na,straight,no,miami,FL,1,no,no,82,12,na,na,na,final,0,82,12,82,82,11.71,11.71,na,no,no,na,0,0,4,0,1,0.08
+Nicole,Schaffrich,12,bbus2,2,regular,2,2001,12,82,31,30-somethings,female,white,white,no,no,na,na,straight,no,atlanta,GA,1,no,no,82,12,na,na,na,final,0,82,12,82,82,11.71,11.71,na,no,no,na,1,0,2,1,2,0.17
+Monica,Bailey,13,bbus2,2,regular,2,2001,12,82,40,40-somethings,female,black,black,no,no,na,na,straight,no,brooklyn,NY,1,no,no,77,11,na,na,na,yes,0,77,11,77,77,11.00,11.00,na,no,no,na,1,0,2,1,3,0.25
+Hardy,Ames-Hill,14,bbus2,2,regular,2,2001,12,82,31,30-somethings,male,white,white,no,no,na,na,straight,no,york,PA,1,no,no,68,10,na,na,na,yes,0,68,10,68,68,9.71,9.71,na,no,no,na,3,0,1,3,4,0.33
+Bunky,Miller,15,bbus2,2,regular,2,2001,12,82,36,30-somethings,male,white,white,no,no,na,na,gay,no,harrisburg,NC,1,no,no,61,9,na,na,na,yes,0,61,9,61,61,8.71,8.71,na,no,no,na,0,0,1,0,5,0.42
+Krista,Stegall,16,bbus2,2,regular,2,2001,12,82,28,20-somethings,female,white,white,no,no,na,na,straight,no,opelousas,LA,1,no,no,47,7,na,na,na,yes,0,47,7,47,47,6.71,6.71,na,no,no,na,1,0,2,1,6,0.50
+Kent,Blackwelder,17,bbus2,2,regular,2,2001,12,82,46,40-somethings,male,white,white,no,no,na,na,straight,no,powell,TN,1,no,no,40,6,na,na,na,yes,0,40,6,40,40,5.71,5.71,na,no,no,na,1,0,2,1,7,0.58
+"Mike ""Boogie""",Malin,18,bbus2,2,regular,2,2001,12,82,30,30-somethings,male,white,white,no,no,na,na,straight,no,los angeles,CA,1,no,no,33,5,na,na,na,yes,0,33,5,33,33,4.71,4.71,na,no,no,na,1,0,1,1,8,0.67
+Shannon,Dragoo,19,bbus2,2,regular,2,2001,12,82,29,20-somethings,female,white,white,no,no,na,na,straight,no,san antonio,TX,1,no,no,26,4,na,na,na,yes,0,26,4,26,26,3.71,3.71,na,no,no,na,0,0,1,0,9,0.75
+Autumn,Daly,20,bbus2,2,regular,2,2001,12,82,28,20-somethings,female,black,black,no,no,na,na,straight,no,irving,TX,1,no,no,19,3,na,na,na,yes,0,19,3,19,19,2.71,2.71,na,no,no,na,0,0,1,0,10,0.83
+Sheryl,Braxton,21,bbus2,2,regular,2,2001,12,82,43,40-somethings,female,white,white,no,no,na,na,straight,no,ponte vedra beach,FL,1,no,no,12,2,na,na,na,yes,0,12,2,12,12,1.71,1.71,na,no,no,na,0,0,1,0,11,0.92
+Justin,Sebik,22,bbus2,2,regular,2,2001,12,82,26,20-somethings,male,white,white,no,no,na,na,straight,no,bayonne,NJ,1,no,no,10,1,na,na,na,no,0,10,2,10,10,1.43,1.43,na,yes,no,na,0,0,0,0,12,1.00
+Lisa,Donahue,23,bbus3,3,regular,3,2002,12,82,26,20-somethings,female,white,white,no,no,na,na,straight,no,los angeles,CA,1,no,no,82,12,na,na,na,final,0,82,12,82,82,11.71,11.71,na,no,no,1,2,0,2,3,1,0.08
+Danielle,Reyes,24,bbus3,3,regular,3,2002,12,82,30,30-somethings,female,black,black,no,no,na,na,straight,no,fairfield,CA,1,no,no,82,12,na,na,na,final,0,82,12,82,82,11.71,11.71,na,no,no,1,1,0,1,2,2,0.17
+Jason,Guy,25,bbus3,3,regular,3,2002,12,82,25,20-somethings,male,white,white,no,no,na,na,straight,no,mobile,AL,1,no,no,78,11,na,na,na,yes,0,78,12,78,78,11.14,11.14,na,no,no,1,2,0,1,3,3,0.25
+Amy,Crews,26,bbus3,3,regular,3,2002,12,82,23,20-somethings,female,white,white,no,no,na,na,straight,no,memphis,TN,1,yes,yes,27,4,41,14,2,yes,0,76,11,76,62,10.86,8.86,na,no,no,1,1,0,6,2,4,0.33
+Marcellas,Reynolds,27,bbus3,3,regular,3,2002,12,82,34,30-somethings,male,black,black,no,no,na,na,gay,no,chicago,IL,1,no,no,69,10,na,na,na,yes,0,69,10,69,69,9.86,9.86,na,no,no,1,2,0,3,3,5,0.42
+Roddy,Mancuso,28,bbus3,3,regular,3,2002,12,82,30,30-somethings,male,white,white,no,no,na,na,straight,no,morristown,NJ,1,no,no,62,9,na,na,na,yes,0,62,9,62,62,8.86,8.86,na,no,no,0,1,0,3,1,6,0.50
+Gerry,Lancaster,29,bbus3,3,regular,3,2002,12,82,51,50+,male,white,white,no,no,na,na,straight,no,shadow hills,CA,1,no,no,55,8,na,na,na,yes,0,55,8,55,55,7.86,7.86,na,no,no,2,1,0,1,3,7,0.58
+Chiara,Berti,30,bbus3,3,regular,3,2002,12,82,25,20-somethings,female,white,white,no,no,na,na,straight,no,new york city,NY,1,no,no,48,7,na,na,na,yes,0,48,7,48,48,6.86,6.86,na,no,no,1,1,0,1,2,8,0.67
+Josh,Feinberg,31,bbus3,3,regular,3,2002,12,82,28,20-somethings,male,white,white,no,no,na,na,straight,no,long island,NY,1,no,no,41,6,na,na,na,yes,0,41,6,41,41,5.86,5.86,na,no,no,0,0,0,2,0,9,0.75
+Eric,Ouellette,32,bbus3,3,regular,3,2002,12,82,27,20-somethings,male,white,white,no,no,na,na,straight,no,milford,CT,1,yes,no,34,5,41,7,1,yes,0,34,5,34,34,4.86,4.86,na,no,no,1,0,0,1,1,10,0.83
+Tonya,Paoni,33,bbus3,3,regular,3,2002,12,82,35,30-somethings,female,white,white,no,no,na,na,straight,no,las vegas,NV,1,yes,no,20,3,41,21,3,yes,0,20,3,20,20,2.86,2.86,na,no,no,0,0,0,1,0,11,0.92
+Lori,Olson,34,bbus3,3,regular,3,2002,12,82,37,30-somethings,female,white,white,no,no,na,na,straight,no,foxboro,WI,1,yes,no,13,2,41,28,4,yes,0,13,2,13,13,1.86,1.86,na,no,no,0,0,0,1,0,12,1.00
+Jun,Song,35,bbus4,4,regular,4,2003,13,82,27,20-somethings,female,asian,asian,no,no,na,na,straight,no,new york city,NY,1,no,no,82,12,na,na,na,final,0,82,12,82,82,11.71,11.71,na,no,no,1,1,0,3,2,1,0.08
+Alison,Irwin,36,bbus4,4,regular,4,2003,13,82,22,20-somethings,female,white,white,no,no,na,na,straight,no,meadville,PA,1,no,no,82,12,na,na,na,final,0,82,12,82,82,11.71,11.71,na,no,no,2,2,0,3,4,2,0.15
+Robert,Roman,37,bbus4,4,regular,4,2003,13,82,33,30-somethings,male,latinx,white-latinx,yes,no,na,na,straight,no,los angeles,CA,1,no,no,75,11,na,na,na,yes,7,75,12,82,75,11.71,10.71,na,no,no,2,1,0,3,3,3,0.23
+Erika,Landin,38,bbus4,4,regular,4,2003,13,82,33,30-somethings,female,white,white,no,no,na,na,straight,no,los angeles,CA,1,no,no,68,10,na,na,na,yes,14,68,12,82,68,11.71,9.71,na,no,no,0,1,0,3,1,4,0.31
+Jee,Choe,39,bbus4,4,regular,4,2003,13,82,23,20-somethings,male,asian,asian,no,no,na,na,straight,no,elmhurst,NY,1,no,no,61,9,na,na,na,yes,21,61,12,82,61,11.71,8.71,na,no,no,1,2,0,2,3,5,0.38
+Jack,Owens,40,bbus4,4,regular,4,2003,13,82,58,50+,male,white,white,no,no,na,na,straight,no,birmingham,AL,1,no,no,54,8,na,na,na,yes,28,54,12,82,54,11.71,7.71,na,no,no,0,0,0,3,0,6,0.46
+Justin,Giovinco,41,bbus4,4,regular,4,2003,13,82,22,20-somethings,male,white,white,no,no,na,na,straight,no,pittsburgh,PA,1,no,no,47,7,na,na,na,yes,35,47,12,82,47,11.71,6.71,na,no,no,0,1,0,1,1,7,0.54
+Nathan,Marlow,42,bbus4,4,regular,4,2003,13,82,23,20-somethings,male,white,white,no,no,na,na,straight,no,edmond,OK,1,no,no,40,6,na,na,na,yes,42,40,12,82,40,11.71,5.71,na,no,no,1,1,0,1,2,8,0.62
+Dana,Varela,43,bbus4,4,regular,4,2003,13,82,28,20-somethings,female,unknown,unknown,no,no,na,na,straight,no,queens,NY,1,no,no,33,5,na,na,na,yes,49,33,12,82,33,11.71,4.71,na,no,no,1,1,0,1,2,9,0.69
+David,Lane,44,bbus4,4,regular,4,2003,13,82,21,20-somethings,male,white,white,no,no,na,na,straight,no,deerfield beach,FL,1,no,no,26,4,na,na,na,no,0,26,4,26,26,3.71,3.71,na,no,no,1,0,0,1,1,10,0.77
+Michelle,Maradie,45,bbus4,4,regular,4,2003,13,82,19,teens,female,white,white,no,no,na,na,straight,no,boca raton,FL,1,no,no,19,3,na,na,na,no,0,19,3,19,19,2.71,2.71,na,no,no,0,0,0,1,0,11,0.85
+Amanda,Craig,46,bbus4,4,regular,4,2003,13,82,25,20-somethings,female,black,biracial,no,yes,black,white,straight,no,chicago,IL,1,no,no,12,2,na,na,na,no,0,12,2,12,12,1.71,1.71,na,no,no,0,0,0,1,0,12,0.92
+Scott,Weintraub,47,bbus4,4,regular,4,2003,13,82,33,30-somethings,male,white,white,no,no,na,na,straight,no,chicago,IL,1,no,no,8,1,na,na,na,no,0,8,2,8,8,1.14,1.14,na,yes,no,0,0,0,0,0,13,1.00
+Drew,Daniel,48,bbus5,5,regular,5,2004,14,82,22,20-somethings,male,white,white,no,no,na,na,straight,no,urbana,OH,1,no,no,82,12,na,na,na,final,0,82,12,82,82,11.71,11.71,na,no,no,1,4,0,1,5,1,0.07
+"Michael ""Cowboy""",Ellis,49,bbus5,5,regular,5,2004,14,82,23,20-somethings,male,white,white,no,no,na,na,straight,no,durant,OK,1,no,no,82,12,na,na,na,final,0,82,12,82,82,11.71,11.71,na,no,no,1,0,0,4,1,2,0.14
+Diane,Henry,50,bbus5,5,regular,5,2004,14,82,22,20-somethings,female,white,white,no,no,na,na,straight,no,burlington,KY,1,no,no,78,11,na,na,na,yes,4,78,12,82,78,11.71,11.14,na,no,no,2,1,0,4,3,3,0.21
+"Jennifer ""Nakomis""",Dedmon,51,bbus5,5,regular,5,2004,14,82,21,20-somethings,female,white,white,no,no,na,na,straight,no,san antonio,TX,1,no,no,75,11,na,na,na,yes,7,75,12,82,75,11.71,10.71,na,no,no,1,3,0,4,4,4,0.29
+Karen,Ganci,52,bbus5,5,regular,5,2004,14,82,30,30-somethings,female,white,white,no,no,na,na,straight,no,saddle brook,NJ,1,no,no,70,10,na,na,na,yes,12,70,12,82,70,11.71,10.00,na,no,no,1,0,0,2,1,5,0.36
+Marvin,Latimer,53,bbus5,5,regular,5,2004,14,82,36,30-somethings,male,black,black,no,no,na,na,straight,no,conway,SC,1,no,no,65,9,na,na,na,yes,17,65,12,82,65,11.71,9.29,na,no,no,0,2,0,4,2,6,0.43
+Adria,Klein,54,bbus5,5,regular,5,2004,14,82,30,30-somethings,female,white,white,no,no,na,na,straight,no,birmingham,AL,1,no,no,63,9,na,na,na,yes,19,63,12,82,63,11.71,9.00,na,no,no,2,1,0,3,3,7,0.50
+Natalie,Carroll,55,bbus5,5,regular,5,2004,14,82,30,30-somethings,female,white,white,no,no,na,na,straight,no,birmingham,AL,1,no,no,56,8,na,na,na,yes,26,56,12,82,56,11.71,8.00,na,no,no,0,0,0,1,0,8,0.57
+Will,Wikle,56,bbus5,5,regular,5,2004,14,82,26,20-somethings,male,white,white,no,no,na,na,gay,no,tulepo,MS,1,no,no,49,7,na,na,na,yes,33,49,12,82,49,11.71,7.00,na,no,no,0,0,0,1,0,9,0.64
+Jase,Wirey,57,bbus5,5,regular,5,2004,14,82,28,20-somethings,male,white,white,no,no,na,na,straight,no,decatur,IL,1,no,no,42,6,na,na,na,no,0,42,6,42,42,6.00,6.00,na,no,no,2,1,0,2,3,10,0.71
+Scott,Long,58,bbus5,5,regular,5,2004,14,82,25,20-somethings,male,white,white,no,no,na,na,straight,no,pittsburgh,PA,1,no,no,35,5,na,na,na,no,0,35,5,35,35,5.00,5.00,na,no,no,1,0,0,1,1,11,0.79
+Holly,King,59,bbus5,5,regular,5,2004,14,82,26,20-somethings,female,white,white,no,no,na,na,straight,no,los angeles,CA,1,no,no,28,4,na,na,na,no,0,28,4,28,28,4.00,4.00,na,no,no,0,0,0,2,0,12,0.86
+Lori,Valenti,60,bbus5,5,regular,5,2004,14,82,26,20-somethings,female,white,white,no,no,na,na,straight,no,boston,MA,1,no,no,21,3,na,na,na,no,0,21,3,21,21,3.00,3.00,na,no,no,0,0,0,1,0,13,0.93
+Mike,Lubinski,61,bbus5,5,regular,5,2004,14,82,41,40-somethings,male,white,white,no,no,na,na,straight,no,eastpointe,MI,1,no,no,14,2,na,na,na,no,0,14,2,14,14,2.00,2.00,na,no,no,0,0,0,1,0,14,1.00
+Maggie,Ausburn,62,bbus6,6,regular,6,2005,14,80,27,20-somethings,female,white,white,no,no,na,na,straight,no,las vegas,NV,1,no,no,80,11,na,na,na,final,0,80,12,80,80,11.43,11.43,na,no,no,1,1,0,4,2,1,0.07
+Ivette,Corredero,63,bbus6,6,regular,6,2005,14,80,25,20-somethings,female,latinx,other-latinx,yes,no,na,na,lesbian,no,miami beach,FL,1,no,no,80,11,na,na,na,final,0,80,12,80,80,11.43,11.43,na,no,no,1,2,0,4,3,2,0.14
+Janelle,Pierzina,64,bbus6,6,regular,6,2005,14,80,25,20-somethings,female,white,white,no,no,na,na,straight,no,miami beach,FL,1,no,no,76,11,na,na,na,yes,4,76,12,80,76,11.43,10.86,na,no,no,2,2,0,6,4,3,0.21
+April,Lewis,65,bbus6,6,regular,6,2005,14,80,31,30-somethings,female,white,white,no,no,na,na,straight,no,dallas,TX,1,no,no,73,10,na,na,na,yes,7,73,12,80,73,11.43,10.43,na,no,no,1,1,0,2,2,4,0.29
+Howie,Gordon,66,bbus6,6,regular,6,2005,14,80,34,30-somethings,male,white,white,no,no,na,na,straight,no,chicago,IL,1,no,no,68,10,na,na,na,yes,12,68,12,80,68,11.43,9.71,na,no,no,0,2,0,3,2,5,0.36
+Beau,Beasley,67,bbus6,6,regular,6,2005,14,80,25,20-somethings,male,black,black,no,no,na,na,gay,no,pembroke pines,FL,1,no,no,63,9,na,na,na,yes,17,63,12,80,63,11.43,9.00,na,no,no,0,1,0,1,1,6,0.43
+James,Rhine,68,bbus6,6,regular,6,2005,14,80,29,20-somethings,male,white,white,no,no,na,na,straight,no,atlanta,GA,1,no,no,61,9,na,na,na,yes,19,61,12,80,61,11.43,8.71,na,no,no,4,0,0,4,4,7,0.50
+Rachel,Plencner,69,bbus6,6,regular,6,2005,14,80,33,30-somethings,female,white,white,no,no,na,na,straight,no,parker,CO,1,no,no,54,8,na,na,na,yes,26,54,12,80,54,11.43,7.71,na,no,no,2,1,0,2,3,8,0.57
+Jennifer,Vasquez,70,bbus6,6,regular,6,2005,14,80,27,20-somethings,female,latinx,other-latinx,yes,no,na,na,straight,no,plano,TX,1,no,no,49,7,na,na,na,yes,31,49,12,80,49,11.43,7.00,na,no,no,0,1,0,1,1,9,0.64
+Kaysar,Ridha,71,bbus6,6,regular,6,2005,14,80,25,20-somethings,male,middle eastern,middle eastern,no,no,na,na,straight,no,irvine,CA,1,yes,yes,33,5,40,7,1,no,0,47,7,47,40,6.71,5.71,na,no,no,0,1,0,3,1,10,0.71
+Sarah,Hrejsa,72,bbus6,6,regular,6,2005,14,80,23,20-somethings,female,white,white,no,no,na,na,straight,no,chicago,IL,1,no,no,40,6,na,na,na,no,0,40,6,40,40,5.71,5.71,na,no,no,1,0,0,1,1,11,0.79
+Eric,Littmann,73,bbus6,6,regular,6,2005,14,80,36,30-somethings,male,white,white,no,no,na,na,straight,no,boston,MA,1,yes,no,26,4,40,14,2,no,0,26,4,26,26,3.71,3.71,na,no,no,0,1,0,1,1,12,0.86
+Michael,Donnellan,74,bbus6,6,regular,6,2005,14,80,28,20-somethings,male,white,white,no,no,na,na,straight,no,orange county,CA,1,yes,no,19,3,40,21,3,no,0,19,3,19,19,2.71,2.71,na,no,no,0,0,0,1,0,13,0.93
+Ashlea,Evans,75,bbus6,6,regular,6,2005,14,80,22,20-somethings,female,white,white,no,no,na,na,straight,no,plantation,FL,1,no,no,12,2,na,na,na,no,0,12,2,12,12,1.71,1.71,na,no,yes,0,0,0,1,0,14,1.00
+"Mike ""Boogie""",Malin,76,bbus7,7,all-stars,1,2006,14,72,36,30-somethings,male,white,white,no,no,na,na,straight,no,concord,NH,2,no,no,72,10,na,na,na,final,0,72,11,72,72,10.29,10.29,no,no,no,1,3,0,2,4,1,0.07
+Erika,Landin,77,bbus7,7,all-stars,1,2006,14,72,36,30-somethings,female,white,white,no,no,na,na,straight,no,chicago,IL,2,no,no,72,10,na,na,na,final,0,72,11,72,72,10.29,10.29,no,no,no,2,1,0,6,3,2,0.14
+Janelle,Pierzina,78,bbus7,7,all-stars,1,2006,14,72,26,20-somethings,female,white,white,no,no,na,na,straight,no,grand rapids,MN,2,no,no,67,10,na,na,na,yes,5,67,11,72,67,10.29,9.57,yes,no,no,5,4,0,4,9,3,0.21
+Will,Kirby,79,bbus7,7,all-stars,1,2006,14,72,33,30-somethings,male,white,white,no,no,na,na,straight,no,miami,FL,2,no,no,65,9,na,na,na,yes,7,65,11,72,65,10.29,9.29,no,no,no,0,0,0,2,0,4,0.29
+George,Boswell,80,bbus7,7,all-stars,1,2006,14,72,47,40-somethings,male,white,white,no,no,na,na,straight,no,rockford,IL,2,no,no,60,9,na,na,na,yes,12,60,11,72,60,10.29,8.57,no,no,no,1,1,0,4,2,5,0.36
+Danielle,Reyes,81,bbus7,7,all-stars,1,2006,14,72,34,30-somethings,female,black,black,no,no,na,na,straight,no,vacaville,CA,2,no,no,60,9,na,na,na,yes,12,60,11,72,60,10.29,8.57,no,no,no,1,1,0,3,2,6,0.43
+James,Rhine,82,bbus7,7,all-stars,1,2006,14,72,30,30-somethings,male,white,white,no,no,na,na,straight,no,miami,FL,2,no,no,53,8,na,na,na,yes,19,53,11,72,53,10.29,7.57,no,no,no,1,1,0,3,2,7,0.50
+Howie,Gordon,83,bbus7,7,all-stars,1,2006,14,72,35,30-somethings,male,white,white,no,no,na,na,straight,no,chicago,IL,2,no,no,47,7,na,na,na,yes,25,47,11,72,47,10.29,6.71,no,no,no,0,0,0,1,0,8,0.57
+Marcellas,Reynolds,84,bbus7,7,all-stars,1,2006,14,72,36,30-somethings,male,black,black,no,no,na,na,gay,no,chicago,IL,2,no,no,46,7,na,na,na,yes,26,46,11,72,46,10.29,6.57,no,no,no,0,0,0,1,0,9,0.64
+kaysar,Ridha,85,bbus7,7,all-stars,1,2006,14,72,25,20-somethings,male,middle eastern,middle eastern,no,no,na,na,straight,no,irvine,CA,2,no,no,39,6,na,na,na,no,0,39,6,39,39,5.57,5.57,no,no,no,0,1,0,1,1,10,0.71
+Diane,Henry,86,bbus7,7,all-stars,1,2006,14,72,24,20-somethings,female,white,white,no,no,na,na,straight,no,cincinnati,OH,2,no,no,32,5,na,na,na,no,0,32,5,32,32,4.57,4.57,no,no,no,0,0,0,2,0,11,0.79
+Jase,Wirey,87,bbus7,7,all-stars,1,2006,14,72,30,30-somethings,male,white,white,no,no,na,na,straight,no,taylorville,IL,2,no,no,25,4,na,na,na,no,0,25,4,25,25,3.57,3.57,no,no,no,0,1,0,1,1,12,0.86
+"Jennifer ""Nakomis""",Dedmon,88,bbus7,7,all-stars,1,2006,14,72,23,20-somethings,female,white,white,no,no,na,na,straight,no,san antonio,TX,2,no,no,18,3,na,na,na,no,0,18,3,18,18,2.57,2.57,no,no,no,0,0,0,1,0,13,0.93
+Alison,Irwin,89,bbus7,7,all-stars,1,2006,14,72,25,20-somethings,female,white,white,no,no,na,na,straight,no,meadville,PA,2,no,no,11,2,na,na,na,no,0,11,2,11,11,1.57,1.57,no,no,no,0,0,0,1,0,14,1.00
+Dick,Donato,90,bbus8,8,regular,7,2007,14,81,44,40-somethings,male,white,white,no,no,na,na,straight,no,los angeles,CA,1,no,no,81,12,na,na,na,final,0,81,12,81,81,11.57,11.57,no,no,no,1,3,0,3,4,1,0.07
+Daniele,Donato,91,bbus8,8,regular,7,2007,14,81,20,20-somethings,female,white,white,no,no,na,na,straight,no,hunting beach,CA,1,no,no,81,12,na,na,na,final,0,81,12,81,81,11.57,11.57,no,no,no,5,2,0,4,7,2,0.14
+Zach,Swerdzewski,92,bbus8,8,regular,7,2007,14,81,30,30-somethings,male,white,white,no,no,na,na,straight,no,tallahassee,FL,1,no,no,76,11,na,na,na,yes,5,76,12,81,76,11.57,10.86,no,no,no,1,2,0,2,3,3,0.21
+Jameka,Cameron,93,bbus8,8,regular,7,2007,14,81,28,20-somethings,female,black,black,no,no,na,na,straight,no,waldorf,MD,1,no,no,74,11,na,na,na,yes,7,74,12,81,74,11.57,10.57,no,no,no,1,0,0,4,1,4,0.29
+Eric,Stein,94,bbus8,8,regular,7,2007,14,81,27,20-somethings,male,white,white,no,no,na,na,straight,no,new york city,NY,1,no,no,69,10,na,na,na,yes,12,69,12,81,69,11.57,9.86,no,no,no,1,0,0,2,1,5,0.36
+Jessica,Hughbanks,95,bbus8,8,regular,7,2007,14,81,21,20-somethings,female,white,white,no,no,na,na,straight,no,haysville,KS,1,no,no,69,10,na,na,na,yes,12,69,12,81,69,11.57,9.86,no,no,no,0,2,0,1,2,6,0.43
+Amber,Siyavus,96,bbus8,8,regular,7,2007,14,81,27,20-somethings,female,white,white,no,no,na,na,straight,no,las vegas,NV,1,no,no,62,9,na,na,na,yes,19,62,12,81,62,11.57,8.86,no,no,no,0,0,0,3,0,7,0.50
+Jen,Johnson,97,bbus8,8,regular,7,2007,14,81,23,20-somethings,female,white,white,no,no,na,na,straight,no,beverly hills,CA,1,no,no,55,8,na,na,na,yes,26,55,12,81,55,11.57,7.86,no,no,no,2,1,0,4,3,8,0.57
+Dustin,Erikstrup,98,bbus8,8,regular,7,2007,14,81,22,20-somethings,male,white,white,no,no,na,na,gay,no,chicago,IL,1,no,no,48,7,na,na,na,yes,33,48,12,81,48,11.57,6.86,no,no,no,0,1,0,1,1,9,0.64
+Kail,Harbick,99,bbus8,8,regular,7,2007,14,81,37,30-somethings,female,white,white,no,no,na,na,straight,no,mckenzie bridge,OR,1,no,no,41,6,na,na,na,no,0,41,6,41,41,5.86,5.86,no,no,no,0,1,0,3,1,10,0.71
+Nick,Starcevic,100,bbus8,8,regular,7,2007,14,81,25,20-somethings,male,white,white,no,no,na,na,straight,no,kimball,MN,1,no,no,34,5,na,na,na,no,0,34,5,34,34,4.86,4.86,no,no,no,0,0,0,1,0,11,0.79
+Mike,Dutz,101,bbus8,8,regular,7,2007,14,81,26,20-somethings,male,white,white,no,no,na,na,straight,no,three lakes,WS,1,no,no,27,4,na,na,na,no,0,27,4,27,27,3.86,3.86,no,no,no,0,0,0,1,0,12,0.86
+Joe,Barber,102,bbus8,8,regular,7,2007,14,81,23,20-somethings,male,white,white,no,no,na,na,gay,no,chicago,IL,1,no,no,20,3,na,na,na,no,0,20,3,20,20,2.86,2.86,no,no,no,0,0,0,1,0,13,0.93
+Carol,Journey,103,bbus8,8,regular,7,2007,14,81,21,20-somethings,female,latinx,other-latinx,yes,no,na,na,straight,no,lawrence,KS,1,no,no,13,2,na,na,na,no,0,13,2,13,13,1.86,1.86,no,no,no,0,0,0,1,0,14,1.00
+Adam,Jasinski,104,bbus9,9,winter,1,2008,16,81,29,20-somethings,male,white,white,no,no,na,na,straight,no,delray beach,FL,1,no,no,81,12,na,na,na,final,0,81,12,81,81,11.57,11.57,no,no,no,1,2,0,3,3,1,0.06
+Ryan,Quicksall,105,bbus9,9,winter,1,2008,16,81,27,20-somethings,male,white,white,no,no,na,na,straight,no,columbus,OH,1,no,no,81,12,na,na,na,final,0,81,12,81,81,11.57,11.57,no,no,no,2,3,0,3,5,2,0.13
+Sheila,Kennedy,106,bbus9,9,winter,1,2008,16,81,45,40-somethings,female,white,white,no,no,na,na,straight,no,reseda,CA,1,no,no,77,11,na,na,na,yes,4,77,12,81,77,11.57,11.00,no,no,no,0,1,0,5,1,3,0.19
+Sharon,Obermueller,107,bbus9,9,winter,1,2008,16,81,23,20-somethings,female,white,white,no,no,na,na,straight,no,olathe,KS,1,yes,yes,3,0,7,4,0.5714285714,yes,6,75,12,81,71,11.57,10.14,no,no,no,1,1,0,6,2,4,0.25
+Natalie,Cunial,108,bbus9,9,winter,1,2008,16,81,28,20-somethings,female,white,white,no,no,na,na,straight,no,salem,OR,1,no,no,70,10,na,na,na,yes,11,70,12,81,70,11.57,10.00,no,no,no,2,1,0,3,3,5,0.31
+James,Zinkand,109,bbus9,9,winter,1,2008,16,81,21,20-somethings,male,white,white,no,no,na,na,bisexual,no,sarasota,FL,1,yes,yes,35,5,35,0,0,yes,18,63,12,81,63,11.57,9.00,yes,no,no,3,2,0,4,5,6,0.38
+Joshua,Welch,110,bbus9,9,winter,1,2008,16,81,25,20-somethings,male,white,white,no,no,na,na,gay,no,dallas,TX,1,no,no,56,8,na,na,na,yes,25,56,12,81,56,11.57,8.00,no,no,no,1,1,0,1,2,7,0.44
+Chelsia,Hart,111,bbus9,9,winter,1,2008,16,81,21,20-somethings,female,white,white,no,no,na,na,straight,no,cedar falls,IA,1,no,no,49,7,na,na,na,yes,32,49,12,81,49,11.57,7.00,no,no,no,1,1,0,2,2,8,0.50
+Matty,McDonald,112,bbus9,9,winter,1,2008,16,81,23,20-somethings,male,white,white,no,no,na,na,straight,no,charlestown,MA,1,no,no,42,6,na,na,na,yes,39,42,12,81,42,11.57,6.00,no,no,no,2,0,0,3,2,9,0.56
+Allison,Nichols,113,bbus9,9,winter,1,2008,16,81,28,20-somethings,female,white,white,no,no,na,na,straight,no,boston,MA,1,yes,no,28,4,35,7,1,no,0,28,4,28,28,4.00,4.00,no,no,no,0,0,0,2,0,10,0.63
+Alex,Coladonato,114,bbus9,9,winter,1,2008,16,81,24,20-somethings,male,white,white,no,no,na,na,straight,no,staten island,NY,1,yes,no,21,3,35,14,2,no,0,21,3,21,21,3.00,3.00,no,no,no,0,1,0,1,1,11,0.69
+Amanda,Hensen,115,bbus9,9,winter,1,2008,16,81,23,20-somethings,female,white,white,no,no,na,na,straight,no,fidley,MN,1,yes,no,21,3,35,14,2,no,0,21,3,21,21,3.00,3.00,no,no,no,0,1,0,1,1,12,0.75
+Jen,Ditumo,116,bbus9,9,winter,1,2008,16,81,26,20-somethings,female,white,white,no,no,na,na,straight,no,columbus,OH,1,yes,no,14,2,35,21,3,no,0,14,2,14,14,2.00,2.00,no,no,no,0,0,0,1,0,13,0.81
+Parker,Somerville,117,bbus9,9,winter,1,2008,16,81,26,20-somethings,male,black,black,no,no,na,na,straight,no,northridge,CA,1,yes,no,14,2,35,21,3,no,0,14,2,14,14,2.00,2.00,no,no,no,0,0,0,1,0,14,0.88
+Neil,Garcia,118,bbus9,9,winter,1,2008,16,81,29,20-somethings,male,latinx,other-latinx,yes,no,na,na,gay,no,los angeles,CA,1,no,no,7,1,na,na,na,no,0,7,1,7,7,1.00,1.00,no,no,yes,0,0,0,0,0,15,0.94
+Jacob,Heald,119,bbus9,9,winter,1,2008,16,81,23,20-somethings,male,white,white,no,no,na,na,straight,no,dallas,GA,1,yes,no,3,0,35,32,4.571428571,no,0,3,1,3,3,0.43,0.43,no,no,no,0,0,0,0,0,16,1.00
+Dan,Gheesling,120,bbus10,10,regular,8,2008,13,71,24,20-somethings,male,white,white,no,no,na,na,straight,no,dearborn,MI,1,no,no,71,10,na,na,na,final,0,71,11,71,71,10.14,10.14,no,no,no,2,3,0,1,5,1,0.08
+"Robert ""Memphis""",Garrett,121,bbus10,10,regular,8,2008,13,71,25,20-somethings,male,white,white,no,no,na,na,straight,no,los angeles,CA,1,no,no,71,10,na,na,na,final,0,71,11,71,71,10.14,10.14,no,no,no,3,0,0,4,3,2,0.15
+Jerry,MacDonald,122,bbus10,10,regular,8,2008,13,71,75,50+,male,white,white,no,no,na,na,straight,no,magnolia,TX,1,no,no,66,9,na,na,na,yes,5,66,11,71,66,10.14,9.43,no,no,no,2,2,0,5,4,3,0.23
+Keesha,Smith,123,bbus10,10,regular,8,2008,13,71,29,20-somethings,female,white,white,no,no,na,na,straight,no,burbank,CA,1,no,no,64,9,na,na,na,yes,7,64,11,71,64,10.14,9.14,yes,no,no,1,2,0,3,3,4,0.31
+Renny,Martyn,124,bbus10,10,regular,8,2008,13,71,53,50+,female,white,white,no,no,na,na,straight,no,new orleans,LA,1,no,no,59,8,na,na,na,yes,12,59,11,71,59,10.14,8.43,no,no,no,0,1,0,2,1,5,0.38
+"Bryan ""Ollie""",Ollie,125,bbus10,10,regular,8,2008,13,71,27,20-somethings,male,black,black,no,no,na,na,straight,no,bloomington,MN,1,no,no,52,7,na,na,na,yes,19,52,11,71,52,10.14,7.43,no,no,no,0,0,0,1,0,6,0.46
+Michelle,Costa,126,bbus10,10,regular,8,2008,13,71,28,20-somethings,female,portuguese,portuguese,no,no,na,na,straight,no,cumberland,RI,1,no,no,52,7,na,na,na,yes,19,52,11,71,52,10.14,7.43,no,no,no,1,1,0,1,2,7,0.54
+April,Dowling,127,bbus10,10,regular,8,2008,13,71,30,30-somethings,female,white,white,no,no,na,na,straight,no,higley,AZ,1,no,no,45,6,na,na,na,yes,26,45,11,71,45,10.14,6.43,no,no,no,0,1,0,1,1,8,0.62
+Libra,Thompson,128,bbus10,10,regular,8,2008,13,71,31,30-somethings,female,black,black,no,no,na,na,straight,no,spring,TX,1,no,no,38,5,na,na,na,yes,33,38,11,71,38,10.14,5.43,no,no,no,0,0,0,1,0,9,0.69
+Jessie,Godderz,129,bbus10,10,regular,8,2008,13,71,22,20-somethings,male,white,white,no,no,na,na,straight,no,huntington beach,CA,1,no,no,31,4,na,na,na,no,0,31,5,31,31,4.43,4.43,no,no,no,1,1,0,3,2,10,0.77
+Angie,Swindell,130,bbus10,10,regular,8,2008,13,71,29,20-somethings,female,asian,asian,no,no,na,na,straight,no,orlando,FL,1,no,no,24,3,na,na,na,no,0,24,4,24,24,3.43,3.43,no,no,no,0,0,0,1,0,11,0.85
+Steven,Daigle,131,bbus10,10,regular,8,2008,13,71,35,30-somethings,male,white,white,no,no,na,na,gay,no,dallas,TX,1,no,no,16,2,na,na,na,no,0,16,3,16,16,2.29,2.29,no,no,no,0,0,0,1,0,12,0.92
+Brian,Hart,132,bbus10,10,regular,8,2008,13,71,27,20-somethings,male,white,white,no,no,na,na,straight,no,san francisco,CA,1,no,no,9,1,na,na,na,no,0,9,2,9,9,1.29,1.29,no,no,no,0,0,0,1,0,13,1.00
+Jordan,Lloyd,133,bbus11,11,regular,9,2009,13,73,22,20-somethings,female,white,white,no,no,na,na,straight,no,charlotte,NC,1,no,no,73,10,na,na,na,final,0,73,11,73,73,10.43,10.43,no,no,no,1,2,0,3,3,1,0.08
+Natalie,Martinez,134,bbus11,11,regular,9,2009,13,73,24,20-somethings,female,latinx,biracial-latinx,yes,yes,black,other-hispanic,straight,no,gilbert,AZ,1,no,no,73,10,na,na,na,final,0,73,11,73,73,10.43,10.43,no,no,no,0,1,0,5,1,2,0.15
+Kevin,Campbell,135,bbus11,11,regular,9,2009,13,73,29,20-somethings,male,black/asian,biracial,no,yes,black,asian,gay,no,chula vista,CA,1,no,no,73,10,na,na,na,yes,0,73,11,73,73,10.43,10.43,no,no,no,2,1,0,3,3,3,0.23
+Michele,Noonan,136,bbus11,11,regular,9,2009,13,73,27,20-somethings,female,white,white,no,no,na,na,bisexual,no,pasadena,CA,1,no,no,66,9,na,na,na,yes,7,66,11,73,66,10.43,9.43,no,no,no,3,1,0,3,4,4,0.31
+Jeff,Schroeder,137,bbus11,11,regular,9,2009,13,73,31,30-somethings,male,white,white,no,no,na,na,straight,no,norridge,IL,1,no,no,61,9,na,na,na,yes,12,61,11,73,61,10.43,8.71,yes,no,no,3,1,0,2,4,5,0.38
+Russell,Kairouz,138,bbus11,11,regular,9,2009,13,73,24,20-somethings,male,middle eastern,middle eastern,no,no,na,na,straight,no,walnut creek,CA,1,no,no,54,8,na,na,na,yes,19,54,11,73,54,10.43,7.71,no,no,no,1,1,0,2,2,6,0.46
+Lydia,Tavera,139,bbus11,11,regular,9,2009,13,73,24,20-somethings,female,latinx,other-latinx,yes,no,na,na,bisexual,no,torrance,CA,1,no,no,47,7,na,na,na,yes,26,47,11,73,47,10.43,6.71,no,no,no,0,0,0,4,0,7,0.54
+Chima,Simone,140,bbus11,11,regular,9,2009,13,73,32,30-somethings,female,black,black,no,no,na,na,straight,no,west hollywood,CA,1,no,no,42,6,na,na,na,no,0,42,6,42,42,6.00,6.00,no,yes,no,0,1,0,2,1,8,0.62
+Jessie,Godderz,141,bbus11,11,regular,9,2009,13,73,23,20-somethings,male,white,white,no,no,na,na,straight,no,huntington beach,CA,2,no,no,40,6,na,na,na,yes,33,40,11,73,40,10.43,5.71,no,no,no,0,2,0,1,2,9,0.69
+Ronnie,Talbott,142,bbus11,11,regular,9,2009,13,73,30,30-somethings,male,white,white,no,no,na,na,straight,no,belpre,OH,1,no,no,33,5,na,na,na,no,0,33,5,33,33,4.71,4.71,no,no,no,0,1,0,1,1,10,0.77
+Casey,Turner,143,bbus11,11,regular,9,2009,13,73,41,40-somethings,male,white,white,no,no,na,na,straight,no,st petersburg,FL,1,no,no,26,4,na,na,na,no,0,26,4,26,26,3.71,3.71,no,no,no,0,0,0,1,0,11,0.85
+Laura,Crosby,144,bbus11,11,regular,9,2009,13,73,21,20-somethings,female,white,white,no,no,na,na,straight,no,atlanta,GA,1,no,no,19,3,na,na,na,no,0,19,3,19,19,2.71,2.71,no,no,no,0,0,0,1,0,12,0.92
+Braden,Bacha,145,bbus11,11,regular,9,2009,13,73,28,20-somethings,male,white,white,no,no,na,na,straight,no,santa monica,CA,1,no,no,12,2,na,na,na,no,0,12,2,12,12,1.71,1.71,no,no,no,0,0,0,1,0,13,1.00
+Hayden,Moss,146,bbus12,12,regular,10,2010,13,75,24,20-somethings,male,white,white,no,no,na,na,straight,no,tempe,AZ,1,no,no,75,11,na,na,na,final,0,75,11,75,75,10.71,10.71,no,no,no,1,4,0,0,5,1,0.08
+Lane,Elenburg,147,bbus12,12,regular,10,2010,13,75,24,20-somethings,male,white,white,no,no,na,na,straight,no,decatur,TX,1,no,no,75,11,na,na,na,final,0,75,11,75,75,10.71,10.71,no,no,no,0,1,0,0,1,2,0.15
+Enzo,Palumbo,148,bbus12,12,regular,10,2010,13,75,32,30-somethings,male,white,white,no,no,na,na,straight,no,bayonne,NJ,1,no,no,75,11,na,na,na,yes,0,75,11,75,75,10.71,10.71,no,no,no,1,0,0,0,1,3,0.23
+Britney,Haynes,149,bbus12,12,regular,10,2010,13,75,22,20-somethings,female,white,white,no,no,na,na,straight,no,huntington,AK,1,no,no,67,10,na,na,na,yes,8,67,11,75,67,10.71,9.57,yes,no,no,3,1,0,0,4,4,0.31
+Ragan,Fox,150,bbus12,12,regular,10,2010,13,75,34,30-somethings,male,white,white,no,no,na,na,gay,no,west hollywood,CA,1,no,no,62,9,na,na,na,yes,13,62,11,75,62,10.71,8.86,no,no,no,2,0,0,0,2,5,0.38
+Brendon,Villegas,151,bbus12,12,regular,10,2010,13,75,30,30-somethings,male,latinx,biracial-latinx,yes,yes,white,other-hispanic,straight,no,riverside,CA,1,no,no,55,8,na,na,na,yes,20,55,11,75,55,10.71,7.86,no,no,no,3,1,0,0,4,6,0.46
+Matt,Hoffman,152,bbus12,12,regular,10,2010,13,75,32,30-somethings,male,white,white,no,no,na,na,straight,no,elgin,IL,1,no,no,55,8,na,na,na,yes,20,55,11,75,55,10.71,7.86,no,no,no,1,2,0,0,3,7,0.54
+Kathy,Hillis,153,bbus12,12,regular,10,2010,13,75,40,40-somethings,female,white,white,no,no,na,na,straight,no,texarkana,AR,1,no,no,48,7,na,na,na,yes,27,48,11,75,48,10.71,6.86,no,no,no,0,0,0,0,0,8,0.62
+Rachel,Reilly,154,bbus12,12,regular,10,2010,13,75,26,20-somethings,female,white,white,no,no,na,na,straight,no,las vegas,NV,1,no,no,41,6,na,na,na,yes,34,41,11,75,41,10.71,5.86,no,no,no,0,2,0,0,2,9,0.69
+Kristen,Bitting,155,bbus12,12,regular,10,2010,13,75,24,20-somethings,female,white,white,no,no,na,na,straight,no,philadelphia,PA,1,no,no,34,5,na,na,na,no,0,34,5,34,34,4.86,4.86,no,no,no,0,0,0,0,0,10,0.77
+Andrew,Gordon,156,bbus12,12,regular,10,2010,13,75,39,30-somethings,male,white,white,no,no,na,na,straight,no,miami beach,FL,1,no,no,27,4,na,na,na,no,0,27,4,27,27,3.86,3.86,no,no,no,0,0,0,0,0,11,0.85
+Monet,Stunson,157,bbus12,12,regular,10,2010,13,75,24,20-somethings,female,black,biracial,no,yes,black,white,straight,no,glen carbon,IL,1,no,no,20,3,na,na,na,no,0,20,3,20,20,2.86,2.86,no,no,no,0,0,0,0,0,12,0.92
+Annie,Whittington,158,bbus12,12,regular,10,2010,13,75,27,20-somethings,female,white,white,no,no,na,na,bisexual,no,tampa,FL,1,no,no,13,2,na,na,na,no,0,13,2,13,13,1.86,1.86,no,no,no,0,0,0,0,0,13,1.00
+Rachel,Reilly,159,bbus13,13,regular,11,2011,14,75,27,20-somethings,female,white,white,no,no,na,na,straight,no,las vegas,NV,2,no,no,75,11,na,na,na,final,0,75,11,75,75,10.71,10.71,no,no,no,2,4,0,5,6,1,0.07
+Porsche,Briggs,160,bbus13,13,regular,11,2011,14,75,23,20-somethings,female,white,white,no,no,na,na,straight,no,miami beach,FL,1,no,no,75,11,na,na,na,final,0,75,11,75,75,10.71,10.71,no,no,no,2,1,0,5,3,2,0.14
+Adam,Poch,161,bbus13,13,regular,11,2011,14,75,39,30-somethings,male,white,white,no,no,na,na,straight,no,hoboken,NJ,1,no,no,75,11,na,na,na,yes,0,75,11,75,75,10.71,10.71,no,no,no,2,1,0,5,3,3,0.21
+Jordan,Lloyd,162,bbus13,13,regular,11,2011,14,75,24,20-somethings,female,white,white,no,no,na,na,straight,no,matthews,NC,2,no,no,69,10,na,na,na,yes,6,69,11,75,69,10.71,9.86,no,no,no,0,1,0,3,1,4,0.29
+Kalia,Booker,163,bbus13,13,regular,11,2011,14,75,30,30-somethings,female,black,black,no,no,na,na,straight,no,los angeles,CA,1,no,no,67,10,na,na,na,yes,8,67,11,75,67,10.71,9.57,no,no,no,0,2,0,2,2,5,0.36
+Shelly,Moore,164,bbus13,13,regular,11,2011,14,75,41,40-somethings,male,white,white,no,no,na,na,straight,no,prairieville,LA,1,no,no,62,9,na,na,na,yes,13,62,11,75,62,10.71,8.86,no,no,no,0,0,0,3,0,6,0.43
+Jeff,Schroeder,165,bbus13,13,regular,11,2011,14,75,33,30-somethings,male,white,white,no,no,na,na,straight,no,norridge,IL,2,no,no,55,8,na,na,na,yes,20,55,11,75,55,10.71,7.86,yes,no,no,2,1,0,2,3,7,0.50
+Daniele,Donato,166,bbus13,13,regular,11,2011,14,75,24,20-somethings,female,white,white,no,no,na,na,straight,no,huntington beach,CA,2,no,no,55,8,na,na,na,yes,20,55,11,75,55,10.71,7.86,no,no,no,0,2,0,1,2,8,0.57
+Brendon,Villegas,167,bbus13,13,regular,11,2011,14,75,31,30-somethings,male,latinx,biracial-latinx,yes,yes,white,other-hispanic,straight,no,riverside,CA,2,yes,yes,34,5,41,7,1,yes,27,48,11,75,41,10.71,5.86,no,no,no,3,0,0,2,3,9,0.64
+Lawon,Exum,168,bbus13,13,regular,11,2011,14,75,39,30-somethings,male,black,black,no,no,na,na,gay,no,inglewood,CA,1,yes,no,41,6,41,0,0,no,0,41,6,41,41,5.86,5.86,no,no,no,0,0,0,1,0,10,0.71
+Dominic,Briones,169,bbus13,13,regular,11,2011,14,75,25,20-somethings,male,asian,biracial,no,yes,asian,white,straight,no,san mateo,CA,1,yes,no,27,4,41,14,2,no,0,27,4,27,27,3.86,3.86,no,no,no,1,0,0,2,1,11,0.79
+Cassi,Colvin,170,bbus13,13,regular,11,2011,14,75,26,20-somethings,female,white,white,no,no,na,na,straight,no,nashville,TN,1,yes,no,20,3,41,21,3,no,0,20,3,20,20,2.86,2.86,no,no,no,0,0,0,1,0,12,0.86
+Keith,Henderson,171,bbus13,13,regular,11,2011,14,75,32,30-somethings,male,black,black,no,no,na,na,straight,no,bolingbrook,IL,1,yes,no,13,2,41,28,4,no,0,13,2,13,13,1.86,1.86,no,no,no,0,0,0,1,0,13,0.93
+Dick,Donato,172,bbus13,13,regular,11,2011,14,75,48,40-somethings,male,white,white,no,no,na,na,straight,no,los angeles,CA,2,no,no,6,1,na,na,na,no,0,6,1,6,6,0.86,0.86,no,no,yes,0,0,0,0,0,14,1.00
+Ian,Terry,173,bbus14,14,regular,12,2012,16,75,21,20-somethings,male,white,white,no,no,na,na,straight,no,new orleans,LA,1,no,no,75,11,na,na,na,final,0,75,11,75,75,10.71,10.71,no,no,no,2,4,0,2,6,1,0.06
+Dan,Gheesling,174,bbus14,14,regular,12,2012,16,75,28,20-somethings,male,white,white,no,no,na,na,straight,no,west bloomingfield,MI,2,no,no,75,11,na,na,na,final,0,75,11,75,75,10.71,10.71,no,no,no,1,1,0,3,2,2,0.13
+Danielle,Murphree,175,bbus14,14,regular,12,2012,16,75,23,20-somethings,female,white,white,no,no,na,na,straight,no,tuscaloosa,AL,1,no,no,75,11,na,na,na,yes,0,75,11,75,75,10.71,10.71,no,no,no,2,2,0,6,4,3,0.19
+Shane,Meaney,176,bbus14,14,regular,12,2012,16,75,28,20-somethings,male,white,white,no,no,na,na,straight,no,bennington,VT,1,no,no,69,10,na,na,na,yes,6,69,11,75,69,10.71,9.86,no,no,no,4,2,0,3,6,4,0.25
+"Jenn ""JennCity""",Arroyo,177,bbus14,14,regular,12,2012,16,75,37,30-somethings,female,latinx,other-latinx,yes,no,na,na,lesbian,no,brooklyn,NY,1,no,no,67,10,na,na,na,yes,8,67,11,75,67,10.71,9.57,no,no,no,1,0,0,4,1,5,0.31
+Joe,Arvin,178,bbus14,14,regular,12,2012,16,75,41,40-somethings,male,white,white,no,no,na,na,straight,no,schererville,IN,1,no,no,62,9,na,na,na,yes,13,62,11,75,62,10.71,8.86,no,no,no,0,0,0,5,0,6,0.38
+Frank,Eudy,179,bbus14,14,regular,12,2012,16,75,28,20-somethings,male,white,white,no,no,na,na,straight,no,naples,FL,1,no,no,62,9,na,na,na,yes,13,62,11,75,62,10.71,8.86,yes,no,no,3,3,0,5,6,7,0.44
+Britney,Haynes,180,bbus14,14,regular,12,2012,16,75,24,20-somethings,female,white,white,no,no,na,na,straight,no,tulsa,OK,2,no,no,55,8,na,na,na,yes,20,55,11,75,55,10.71,7.86,no,no,no,0,0,0,1,0,8,0.50
+Ashley,Iocco,181,bbus14,14,regular,12,2012,16,75,26,20-somethings,female,white,white,no,no,na,na,straight,no,west hollywood,CA,1,no,no,48,7,na,na,na,yes,27,48,11,75,48,10.71,6.86,no,no,no,0,0,0,2,0,9,0.56
+"Mike ""Boogie""",Malin,182,bbus14,14,regular,12,2012,16,75,41,40-somethings,male,white,white,no,no,na,na,straight,no,studio city,CA,3,no,no,48,7,na,na,na,no,0,48,7,48,48,6.86,6.86,no,no,no,0,0,1,1,1,10,0.63
+Wil,Heuser,183,bbus14,14,regular,12,2012,16,75,24,20-somethings,male,white,white,no,no,na,na,gay,no,louisville,KY,1,no,no,41,6,na,na,na,no,0,41,6,41,41,5.86,5.86,no,no,no,0,0,0,2,0,11,0.69
+Janelle,Pierzina,184,bbus14,14,regular,12,2012,16,75,32,30-somethings,female,white,white,no,no,na,na,straight,no,lakeville,MN,3,no,no,34,5,na,na,na,no,0,34,5,34,34,4.86,4.86,no,no,no,0,0,2,1,2,12,0.75
+"Josephine ""JoJo""",Spatafora,185,bbus14,14,regular,12,2012,16,75,26,20-somethings,female,white,white,no,no,na,na,bisexual,no,staten island,NY,1,no,no,20,3,na,na,na,no,0,20,3,20,20,2.86,2.86,no,no,no,0,0,0,1,0,13,0.81
+Willie,Hantz,186,bbus14,14,regular,12,2012,16,75,34,30-somethings,male,white,white,no,no,na,na,straight,no,dayton,TX,1,no,no,14,2,na,na,na,no,0,14,2,14,14,2.00,2.00,no,yes,no,0,1,0,0,1,14,0.88
+Kara,Monaco,187,bbus14,14,regular,12,2012,16,75,29,20-somethings,female,white,white,no,no,na,na,straight,no,los angeles,CA,1,no,no,13,2,na,na,na,no,0,13,2,13,13,1.86,1.86,no,no,no,0,0,0,2,0,15,0.94
+Jodi,Rollins,188,bbus14,14,regular,12,2012,16,75,42,40-somethings,female,black,black,no,no,na,na,straight,no,calipatria,CA,1,no,no,1,0,na,na,na,no,0,1,1,1,1,0.14,0.14,no,no,no,0,0,0,1,0,16,1.00
+Andy,Herren,189,bbus15,15,regular,13,2013,16,90,26,20-somethings,male,white,white,no,no,na,na,gay,no,chicago,IL,1,no,no,90,13,na,na,na,final,0,90,13,90,90,12.86,12.86,no,no,no,1,3,0,1,4,1,0.06
+GinaMarie,Zimmerman,190,bbus15,15,regular,13,2013,16,90,32,30-somethings,female,white,white,no,no,na,na,straight,no,staten island,NY,1,no,no,90,13,na,na,na,final,0,90,13,90,90,12.86,12.86,no,no,no,0,2,0,4,2,2,0.13
+Spencer,Clawson,191,bbus15,15,regular,13,2013,16,90,31,30-somethings,male,white,white,no,no,na,na,straight,no,conway,AK,1,no,no,90,13,na,na,na,yes,0,90,13,90,90,12.86,12.86,no,no,no,1,1,0,9,2,3,0.19
+McCrae,Olson,192,bbus15,15,regular,13,2013,16,90,23,20-somethings,male,white,white,no,no,na,na,straight,no,oak grove,MN,1,no,no,84,12,na,na,na,yes,6,84,13,90,84,12.86,12.00,no,no,no,3,2,0,4,5,4,0.25
+Judd,Daugherty,193,bbus15,15,regular,13,2013,16,90,26,20-somethings,male,white,white,no,no,na,na,straight,no,etowah,TN,1,yes,yes,49,7,63,14,2,yes,8,82,13,90,68,12.86,9.71,no,no,no,1,1,0,3,2,5,0.31
+Elissa,Slater,194,bbus15,15,regular,13,2013,16,90,27,20-somethings,female,white,white,no,no,na,na,straight,no,kannapolis,NC,1,no,no,77,11,na,na,na,yes,13,77,13,90,77,12.86,11.00,yes,no,no,2,1,0,5,3,6,0.38
+Amanda,Zuckerman,195,bbus15,15,regular,13,2013,16,90,28,20-somethings,female,white,white,no,no,na,na,straight,no,boynton beach,FL,1,no,no,77,11,na,na,na,yes,13,77,13,90,77,12.86,11.00,no,no,no,1,0,0,3,1,7,0.44
+Aaryn,Gries,196,bbus15,15,regular,13,2013,16,90,22,20-somethings,female,white,white,no,no,na,na,straight,no,san marcos,TX,1,no,no,70,10,na,na,na,yes,20,70,13,90,70,12.86,10.00,no,no,no,1,4,0,3,5,8,0.50
+Helen,Kim,197,bbus15,15,regular,13,2013,16,90,37,30-somethings,female,asian,asian,no,no,na,na,straight,no,chicago,IL,1,yes,no,63,9,63,0,0,yes,27,63,13,90,63,12.86,9.00,no,no,no,0,1,0,2,1,9,0.56
+Jessie,Kowalski,198,bbus15,15,regular,13,2013,16,90,25,20-somethings,female,white,white,no,no,na,na,straight,no,san antonio,TX,1,yes,no,56,8,63,7,1,yes,34,56,13,90,56,12.86,8.00,no,no,no,1,0,0,4,1,10,0.63
+Candice,Stewart,199,bbus15,15,regular,13,2013,16,90,29,20-somethings,female,black,black,no,no,na,na,straight,no,houston,TX,1,yes,no,49,7,63,14,2,yes,41,49,13,90,49,12.86,7.00,no,no,no,0,0,0,3,0,11,0.69
+Howard,Overby,200,bbus15,15,regular,13,2013,16,90,29,20-somethings,male,black,black,no,no,na,na,straight,no,hattiesburg,MS,1,no,no,42,6,na,na,na,no,0,42,6,42,42,6.00,6.00,no,no,no,0,0,0,1,0,12,0.75
+Kaitlin,Barnaby,201,bbus15,15,regular,13,2013,16,90,23,20-somethings,female,white,white,no,no,na,na,straight,no,minneapolis,MN,1,no,no,35,5,na,na,na,no,0,35,5,35,35,5.00,5.00,no,no,no,1,0,0,2,1,13,0.81
+Jeremy,McGuire,202,bbus15,15,regular,13,2013,16,90,23,20-somethings,male,white,white,no,no,na,na,straight,no,katy,TX,1,no,no,28,4,na,na,na,no,0,28,4,28,28,4.00,4.00,no,no,no,1,0,0,2,1,14,0.88
+Nick,Uhas,203,bbus15,15,regular,13,2013,16,90,28,20-somethings,male,white,white,no,no,na,na,straight,no,new york city,NY,1,no,no,21,3,na,na,na,no,0,21,3,21,21,3.00,3.00,no,no,no,0,0,0,1,0,15,0.94
+David,Griton,204,bbus15,15,regular,13,2013,16,90,25,20-somethings,male,white,white,no,no,na,na,straight,no,san diego,CA,1,no,no,13,2,na,na,na,no,0,13,2,13,13,1.86,1.86,no,no,no,0,0,0,1,0,16,1.00
+Derrick,Lavasseur,205,bbus16,16,regular,14,2014,16,97,30,30-somethings,male,white,white,no,no,na,na,straight,no,providence,RI,1,no,no,97,14,na,na,na,final,0,97,14,97,97,13.86,13.86,no,no,no,0,4,0,1,5,1,0.06
+Cody,Calafiore,206,bbus16,16,regular,14,2014,16,97,23,20-somethings,male,white,white,no,no,na,na,straight,no,howell,NJ,1,no,no,97,14,na,na,na,final,0,97,14,97,97,13.86,13.86,no,no,no,3,3,0,2,8,2,0.13
+Victoria,Rafaeli,207,bbus16,16,regular,14,2014,16,97,22,20-somethings,female,middle eastern,middle eastern,no,no,na,na,straight,no,weston,FL,1,no,no,97,14,na,na,na,yes,0,97,14,97,97,13.86,13.86,no,no,no,1,0,2,8,11,3,0.19
+Caleb,Reynolds,208,bbus16,16,regular,14,2014,16,97,26,20-somethings,male,white,white,no,no,na,na,straight,no,hopskinville,KY,1,no,no,90,13,na,na,na,yes,7,90,14,97,90,13.86,12.86,no,no,no,0,4,2,3,9,4,0.25
+Frankie,Grande,209,bbus16,16,regular,14,2014,16,97,31,30-somethings,male,white,white,no,no,na,na,gay,no,new york city,NY,1,no,no,88,13,na,na,na,yes,9,88,14,97,88,13.86,12.57,no,no,no,3,5,1,1,10,5,0.31
+Christine,Brecht,210,bbus16,16,regular,14,2014,16,97,23,20-somethings,female,white,white,no,no,na,na,straight,no,tucson,AZ,1,no,no,77,11,na,na,na,yes,20,77,14,97,77,13.86,11.00,no,no,no,2,1,2,2,7,6,0.38
+Nicole,Franzel,211,bbus16,16,regular,14,2014,16,97,21,20-somethings,female,white,white,no,no,na,na,straight,no,ubly,MI,1,yes,yes,56,8,63,7,1,yes,20,77,14,97,70,13.86,10.00,no,no,no,0,3,2,4,9,7,0.44
+Donny,Thompson,212,bbus16,16,regular,14,2014,16,97,42,40-somethings,male,white,white,no,no,na,na,straight,no,albermarle,NC,1,no,no,70,10,na,na,na,yes,27,70,14,97,70,13.86,10.00,yes,no,no,3,1,2,5,11,8,0.50
+Zach,Rance,213,bbus16,16,regular,14,2014,16,97,23,20-somethings,male,white,white,no,no,na,na,straight,no,palm beach,FL,1,yes,no,63,9,63,0,0,yes,34,63,14,97,63,13.86,9.00,no,no,no,1,1,0,4,6,9,0.56
+Hayden,Voss,214,bbus16,16,regular,14,2014,16,97,21,20-somethings,male,white,white,no,no,na,na,straight,no,long beach,CA,1,yes,no,49,7,63,14,2,yes,48,49,14,97,49,13.86,7.00,no,no,no,1,0,1,1,3,10,0.63
+Jocasta,Odom,215,bbus16,16,regular,14,2014,16,97,33,30-somethings,female,black,black,no,no,na,na,bisexual,no,lovejoy,GA,1,yes,no,49,7,63,14,2,yes,48,49,14,97,49,13.86,7.00,no,no,no,0,0,1,3,4,11,0.69
+Amber,Borzotra,216,bbus16,16,regular,14,2014,16,97,26,20-somethings,female,black,biracial,no,yes,black,white,straight,no,knoxville,TN,1,no,no,42,6,na,na,na,no,0,42,6,42,42,6.00,6.00,no,no,no,0,1,2,1,4,12,0.75
+Brittany,Martinez,217,bbus16,16,regular,14,2014,16,97,29,20-somethings,female,white,white,no,no,na,na,straight,no,torrance,CA,1,no,no,35,5,na,na,na,no,0,35,5,35,35,5.00,5.00,no,no,no,0,0,1,2,3,13,0.81
+Devin,Shepherd,218,bbus16,16,regular,14,2014,16,97,26,20-somethings,male,black,black,no,no,na,na,straight,no,san antonio,TX,1,no,no,28,4,na,na,na,no,0,28,4,28,28,4.00,4.00,no,no,no,1,1,0,1,3,14,0.88
+"Paola ""Pow Pow""",Shea,219,bbus16,16,regular,14,2014,16,97,27,20-somethings,female,asian,asian,no,no,na,na,straight,no,queens,NY,1,no,no,21,3,na,na,na,no,0,21,3,21,21,3.00,3.00,no,no,no,0,0,0,2,2,15,0.94
+Joey,Van Pelt,220,bbus16,16,regular,14,2014,16,97,27,20-somethings,female,unknown,unknown,no,no,na,na,straight,no,seattle,WA,1,no,no,14,2,na,na,na,no,0,14,2,14,14,2.00,2.00,no,no,no,0,0,0,1,1,16,1.00
+Steven,Moss,221,bbus17,17,regular,15,2015,17,98,22,20-somethings,male,white,white,no,no,na,na,straight,no,gouveneur,NY,1,no,no,98,14,na,na,na,final,0,98,14,98,98,14.00,14.00,no,no,no,2,4,1,4,7,1,0.06
+Liz,Nolan,222,bbus17,17,regular,15,2015,17,98,23,20-somethings,female,white,white,no,no,na,na,straight,no,miami,FL,1,no,no,98,14,na,na,na,final,0,98,14,98,98,14.00,14.00,no,no,no,1,3,1,3,5,2,0.12
+Vanessa,Rousso,223,bbus17,17,regular,15,2015,17,98,32,30-somethings,female,white,white,no,no,na,na,lesbian,no,las vegas,NV,1,no,no,98,14,na,na,na,yes,0,98,14,98,98,14.00,14.00,no,no,no,3,4,0,3,7,3,0.18
+"John ""Johnny Mac""",McGuire,224,bbus17,17,regular,15,2015,17,98,27,20-somethings,male,white,white,no,no,na,na,straight,no,jefferson township,PA,1,yes,yes,71,10,71,0,0,yes,27,71,14,98,71,14.00,10.14,no,no,no,4,0,1,8,5,4,0.24
+Austin,Matelson,225,bbus17,17,regular,15,2015,17,98,30,30-somethings,male,white,white,no,no,na,na,straight,no,woodland hills,CA,1,no,no,89,13,na,na,na,yes,9,89,14,98,89,14.00,12.71,no,no,no,1,2,0,2,3,5,0.29
+Julia,Nolan,226,bbus17,17,regular,15,2015,17,98,23,20-somethings,female,white,white,no,no,na,na,straight,no,miami,FL,1,no,no,85,12,na,na,na,yes,13,85,14,98,85,14.00,12.14,no,no,no,1,0,0,2,1,6,0.35
+James,Huling,227,bbus17,17,regular,15,2015,17,98,31,30-somethings,male,asian,asian,no,no,na,na,straight,no,wichita falls,TX,1,no,no,78,11,na,na,na,yes,20,78,14,98,78,14.00,11.14,yes,no,no,2,2,2,3,6,7,0.41
+Meg,Maley,228,bbus17,17,regular,15,2015,17,98,25,20-somethings,female,white,white,no,no,na,na,straight,no,new york city,NY,1,no,no,78,11,na,na,na,yes,20,78,14,98,78,14.00,11.14,no,no,no,0,0,1,3,1,8,0.47
+Becky,Burgess,229,bbus17,17,regular,15,2015,17,98,26,20-somethings,female,white,white,no,no,na,na,straight,no,denver,CO,1,yes,no,64,9,71,7,1,yes,34,64,14,98,64,14.00,9.14,no,no,no,0,2,1,2,3,9,0.53
+Jackie,Ibarra,230,bbus17,17,regular,15,2015,17,98,27,20-somethings,female,latinx,other-latinx,yes,no,na,na,straight,no,las vegas,NV,1,yes,no,57,8,71,14,2,yes,41,57,14,98,57,14.00,8.14,no,no,no,0,1,1,2,2,10,0.59
+Shelli,Poole,231,bbus17,17,regular,15,2015,17,98,33,30-somethings,female,white,white,no,no,na,na,straight,no,atlanta,GA,1,yes,no,57,8,71,14,2,yes,41,57,14,98,57,14.00,8.14,no,no,no,0,2,0,2,2,11,0.65
+Clay,Honeycutt,232,bbus17,17,regular,15,2015,17,98,23,20-somethings,male,white,white,no,no,na,na,straight,no,college station,TX,1,no,no,50,7,na,na,na,no,0,50,8,50,50,7.14,7.14,no,no,no,0,0,0,2,0,12,0.71
+Jason,Roy,233,bbus17,17,regular,15,2015,17,98,25,20-somethings,male,white,white,no,no,na,na,gay,no,swansea,MA,1,no,no,43,6,na,na,na,no,0,43,7,43,43,6.14,6.14,no,no,no,0,1,2,2,3,13,0.76
+Audrey,Middleton,234,bbus17,17,regular,15,2015,17,98,25,20-somethings,female,white,white,no,no,na,na,transgender,no,villa rica,GA,1,no,no,36,5,na,na,na,no,0,36,6,36,36,5.14,5.14,no,no,no,0,0,0,1,0,14,0.82
+Jeff,Weldon,235,bbus17,17,regular,15,2015,17,98,26,20-somethings,male,white,white,no,no,na,na,straight,no,tampa,FL,1,no,no,29,4,na,na,na,no,0,29,5,29,29,4.14,4.14,no,no,no,0,0,0,1,0,15,0.88
+Da'Vonne,Rogers,236,bbus17,17,regular,15,2015,17,98,27,20-somethings,female,black,black,no,no,na,na,straight,no,los angeles,CA,1,no,no,22,3,na,na,na,no,0,22,4,22,22,3.14,3.14,no,no,no,0,0,0,1,0,16,0.94
+Jace,Agolli,237,bbus17,17,regular,15,2015,17,98,23,20-somethings,male,white,white,no,no,na,na,straight,no,venice beach,CA,1,no,no,15,2,na,na,na,no,0,15,3,15,15,2.14,2.14,no,no,no,0,0,0,1,0,17,1.00
+Nicole,Franzel,238,bbus18,18,regular,16,2016,16,99,23,20-somethings,female,white,white,no,no,na,na,straight,no,ubly,MI,2,no,no,99,14,na,na,na,final,0,99,15,99,99,14.14,14.14,no,no,no,2,2,0,3,4,1,0.06
+Paul,Abrahamian,239,bbus18,18,regular,16,2016,16,99,23,20-somethings,male,armenian,armenian,no,no,na,na,straight,no,tarzana,CA,1,no,no,99,14,na,na,na,final,0,99,15,99,99,14.14,14.14,no,no,no,3,3,0,6,6,2,0.13
+James,Huling,240,bbus18,18,regular,16,2016,16,99,32,30-somethings,male,asian,asian,no,no,na,na,straight,no,wichita falls,TX,2,no,no,99,14,na,na,na,yes,0,99,15,99,99,14.14,14.14,no,no,no,0,1,0,2,1,3,0.19
+Corey,Brooks,241,bbus18,18,regular,16,2016,16,99,25,20-somethings,male,white,white,no,no,na,na,straight,no,dallas,TX,1,no,no,92,13,na,na,na,yes,7,92,15,99,92,14.14,13.14,no,no,no,3,2,0,5,5,4,0.25
+Victor,Arroyo,242,bbus18,18,regular,16,2016,16,99,25,20-somethings,male,latinx,other-latinx,yes,no,na,na,straight,no,slidell,LA,1,yes,yes,23,3,37,14,2,yes,9,90,15,99,76,14.14,10.86,yes,no,no,1,3,1,3,5,5,0.31
+Natalie,Negrotti,243,bbus18,18,regular,16,2016,16,99,26,20-somethings,female,latinx,other-latinx,yes,no,na,na,straight,no,franklin park,NJ,1,no,no,86,12,na,na,na,yes,13,86,15,99,86,14.14,12.29,no,no,no,0,0,0,2,0,6,0.38
+Michelle,Meyer,244,bbus18,18,regular,16,2016,16,99,23,20-somethings,female,white,white,no,no,na,na,straight,no,washington township,MI,1,no,no,79,11,na,na,na,yes,20,79,15,99,79,14.14,11.29,no,no,no,1,1,0,3,2,7,0.44
+Paulie,Calafiore,245,bbus18,18,regular,16,2016,16,99,27,20-somethings,male,white,white,no,no,na,na,straight,no,howell,NJ,1,no,no,65,9,na,na,na,yes,34,65,15,99,65,14.14,9.29,no,no,no,3,2,0,3,5,8,0.50
+Bridgette,Dunning,246,bbus18,18,regular,16,2016,16,99,24,20-somethings,female,asian,biracial,no,yes,asian,white,straight,no,ventura,CA,1,no,no,58,8,na,na,na,yes,41,58,15,99,58,14.14,8.29,no,no,no,1,1,0,4,2,9,0.56
+Zakiya,Everette,247,bbus18,18,regular,16,2016,16,99,24,20-somethings,female,black,black,no,no,na,na,straight,no,charlotte,NC,1,no,no,58,8,na,na,na,yes,41,58,15,99,58,14.14,8.29,no,no,no,0,0,0,1,0,10,0.63
+Da'Vonne,Rogers,248,bbus18,18,regular,16,2016,16,99,28,20-somethings,female,black,black,no,no,na,na,straight,no,lancaster,CA,2,no,no,51,7,na,na,na,yes,48,51,15,99,51,14.14,7.29,no,no,no,0,0,0,2,0,11,0.69
+Frank,Eudy,249,bbus18,18,regular,16,2016,16,99,32,30-somethings,male,white,white,no,no,na,na,straight,no,charlotte,NC,2,no,no,44,6,na,na,na,no,0,44,7,44,44,6.29,6.29,no,no,no,0,0,2,1,2,12,0.75
+Tiffany,Rousso,250,bbus18,18,regular,16,2016,16,99,32,30-somethings,female,white,white,no,no,na,na,lesbian,no,palm beach gardens,FL,1,yes,no,37,5,37,0,0,no,0,37,6,37,37,5.29,5.29,no,no,no,0,0,1,4,1,13,0.81
+Bronte,D'Acquisto,251,bbus18,18,regular,16,2016,16,99,26,20-somethings,female,white,white,no,no,na,na,straight,no,denver,CO,1,yes,no,30,4,30,0,0,no,0,30,5,30,30,4.29,4.29,no,no,no,0,0,0,2,0,14,0.88
+Jozea,Flores,252,bbus18,18,regular,16,2016,16,99,25,20-somethings,male,latinx,black-latinx,yes,no,na,na,gay,no,los angeles,CA,1,yes,no,16,2,23,7,1,no,0,16,3,16,16,2.29,2.29,no,no,no,0,0,0,1,0,15,0.94
+Glenn,Garcia,253,bbus18,18,regular,16,2016,16,99,50,50+,male,latinx,other-latinx,yes,no,na,na,straight,no,bronx,NY,1,yes,no,2,0,16,14,2,no,0,2,1,2,2,0.29,0.29,no,no,no,0,0,0,1,0,16,1.00
+Morgan,Willett,254,bbott1,19,over the top,1,2016,13,65,22,20-somethings,female,white,white,no,no,na,na,straight,no,austin,TX,1,no,no,65,9,na,na,na,no,0,65,10,65,65,9.29,9.29,no,no,no,2,1,0,5,3,1,0.08
+Jason,Roy,255,bbott1,19,over the top,1,2016,13,65,27,20-somethings,male,white,white,no,no,na,na,gay,no,swansea,MA,2,no,no,65,9,na,na,na,no,0,65,10,65,65,9.29,9.29,no,no,no,3,2,0,3,5,2,0.15
+Kryssie,Ridolfi,256,bbott1,19,over the top,1,2016,13,65,31,30-somethings,female,white,white,no,no,na,na,unknown,no,schaumburg,IL,1,no,no,65,9,na,na,na,no,0,65,10,65,65,9.29,9.29,no,no,no,0,1,0,4,1,3,0.23
+Justin,Ducan,257,bbott1,19,over the top,1,2016,13,65,27,20-somethings,male,black,black,no,no,na,na,straight,no,new orleans,LA,1,no,no,63,9,na,na,na,no,0,63,9,63,63,9.00,9.00,no,no,no,1,0,0,2,1,4,0.31
+Shelby,Stockton,258,bbott1,19,over the top,1,2016,13,65,24,20-somethings,female,white,white,no,no,na,na,straight,no,simi valley,CA,1,no,no,57,8,na,na,na,no,0,57,9,57,57,8.14,8.14,no,no,no,1,1,0,2,2,5,0.38
+"Danielle ""Dani""",Lickey,259,bbott1,19,over the top,1,2016,13,65,23,20-somethings,female,black,biracial,no,yes,black,white,straight,no,visalia,CA,1,no,no,50,7,na,na,na,no,0,50,8,50,50,7.14,7.14,no,no,no,1,2,0,5,3,6,0.46
+Whitney,Hogg,260,bbott1,19,over the top,1,2016,13,65,21,20-somethings,female,white,white,no,no,na,na,straight,no,whitesburg,KY,1,no,no,43,6,na,na,na,no,0,43,7,43,43,6.14,6.14,no,no,no,0,0,0,4,0,7,0.54
+Alex,Willett,261,bbott1,19,over the top,1,2016,13,65,25,20-somethings,female,white,white,no,no,na,na,straight,no,dallas,TX,1,no,no,43,6,na,na,na,no,0,43,7,43,43,6.14,6.14,no,no,no,1,1,0,1,2,8,0.62
+Scott,Dennis,262,bbott1,19,over the top,1,2016,13,65,24,20-somethings,male,white,white,no,no,na,na,straight,no,bangor,ME,1,no,no,36,5,na,na,na,no,0,36,6,36,36,5.14,5.14,no,no,no,0,1,0,2,1,9,0.69
+Neeley,Jackson,263,bbott1,19,over the top,1,2016,13,65,33,30-somethings,female,black,black,no,no,na,na,straight,no,fort worth,TX,1,no,no,29,4,na,na,na,no,0,29,5,29,29,4.14,4.14,no,no,no,0,0,0,2,0,10,0.77
+Shane,Chapman,264,bbott1,19,over the top,1,2016,13,65,24,20-somethings,male,white,white,no,no,na,na,straight,no,pisgah forest,NC,1,no,no,22,3,na,na,na,no,0,22,4,22,22,3.14,3.14,no,no,no,1,0,0,2,1,11,0.85
+Monte,Massongill,265,bbott1,19,over the top,1,2016,13,65,25,20-somethings,male,white,white,no,no,na,na,straight,no,olive branch,MS,1,no,no,15,2,na,na,na,no,0,15,3,15,15,2.14,2.14,no,no,no,0,0,0,1,0,12,0.92
+"Michael ""Cornbread""",Ligon,266,bbott1,19,over the top,1,2016,13,65,41,40-somethings,male,white,white,no,no,na,na,straight,no,augusta,GA,1,no,no,8,1,na,na,na,no,0,8,2,8,8,1.14,1.14,no,no,no,0,0,0,1,0,13,1.00
+Josh,Martinez,267,bbus19,20,regular,17,2017,17,92,23,20-somethings,male,latinx,other-latinx,yes,no,na,na,straight,no,homestead,FL,1,no,no,92,13,na,na,na,final,0,92,14,92,92,13.14,13.14,no,no,no,1,3,0,3,4,1,0.06
+Paul,Abrahamian,268,bbus19,20,regular,17,2017,17,92,24,20-somethings,male,armenian,armenian,no,no,na,na,straight,no,tarzana,CA,2,no,no,92,13,na,na,na,final,0,92,14,92,92,13.14,13.14,no,no,no,5,3,0,2,8,2,0.12
+Christmas,Abbott,269,bbus19,20,regular,17,2017,17,92,33,30-somethings,female,white,white,no,no,na,na,straight,no,raleigh,NC,1,no,no,92,13,na,na,na,yes,0,92,14,92,92,13.14,13.14,no,no,no,0,2,0,3,2,3,0.18
+Kevin,Schlehuber,270,bbus19,20,regular,17,2017,17,92,56,50+,male,white,white,no,no,na,na,straight,no,boston,MA,1,no,no,86,12,na,na,na,yes,6,86,14,92,86,13.14,12.29,no,no,no,0,0,1,4,1,4,0.24
+Alex,Ow,271,bbus19,20,regular,17,2017,17,92,28,20-somethings,female,asian,asian,no,no,na,na,straight,no,camarillo,CA,1,no,no,84,12,na,na,na,yes,8,84,14,92,84,13.14,12.00,no,no,no,1,3,0,4,4,5,0.29
+Raven,Walton,272,bbus19,20,regular,17,2017,17,92,23,20-somethings,female,white,white,no,no,na,na,straight,no,devalls bluff,AR,1,no,no,79,11,na,na,na,yes,13,79,14,92,79,13.14,11.29,no,no,no,0,0,0,3,0,6,0.35
+Jason,Dent,273,bbus19,20,regular,17,2017,17,92,38,30-somethings,male,white,white,no,no,na,na,straight,no,humeston,IA,1,no,no,79,11,na,na,na,yes,13,79,14,92,79,13.14,11.29,no,no,no,3,2,0,4,5,7,0.41
+Matt,Clines,274,bbus19,20,regular,17,2017,17,92,33,30-somethings,male,white,white,no,no,na,na,straight,no,arlington,VA,1,no,no,72,10,na,na,na,yes,20,72,14,92,72,13.14,10.29,no,no,no,1,0,0,4,1,8,0.47
+Mark,Jansen,275,bbus19,20,regular,17,2017,17,92,26,20-somethings,male,white,white,no,no,na,na,straight,no,grand island,NY,1,no,no,65,9,na,na,na,yes,27,65,14,92,65,13.14,9.29,no,no,no,2,0,3,3,5,9,0.53
+Elena,Davies,276,bbus19,20,regular,17,2017,17,92,26,20-somethings,female,white,white,no,no,na,na,straight,no,dallas,TX,1,no,no,58,8,na,na,na,yes,34,58,14,92,58,13.14,8.29,no,no,no,0,0,0,3,0,10,0.59
+Cody,Nickson,277,bbus19,20,regular,17,2017,17,92,32,30-somethings,male,white,white,no,no,na,na,straight,no,plano,TX,1,yes,yes,23,3,30,7,1,yes,34,58,14,92,51,13.14,7.29,yes,no,no,0,1,1,3,2,11,0.65
+Jessica,Graf,278,bbus19,20,regular,17,2017,17,92,26,20-somethings,female,latinx,biracial-latinx,yes,no,na,na,straight,no,los angeles,CA,1,no,no,51,7,na,na,na,no,0,51,8,51,51,7.29,7.29,no,no,no,1,1,0,3,2,12,0.71
+Ramses,Soto,279,bbus19,20,regular,17,2017,17,92,21,20-somethings,male,latinx,black-latinx,yes,no,na,na,gay,no,grand rapids,MI,1,no,no,37,5,na,na,na,no,0,37,6,37,37,5.29,5.29,no,no,no,0,0,0,2,0,13,0.76
+Dominque,Cooper,280,bbus19,20,regular,17,2017,17,92,31,30-somethings,female,black,black,no,no,na,na,straight,no,woodbridge,VA,1,yes,no,30,4,30,0,0,no,0,30,5,30,30,4.29,4.29,no,no,no,0,0,0,1,0,14,0.82
+Jillian,Parker,281,bbus19,20,regular,17,2017,17,92,24,20-somethings,female,white,white,no,no,na,na,straight,no,las vegas,NV,1,yes,no,16,2,30,14,2,no,0,16,3,16,16,2.29,2.29,no,no,no,0,0,0,2,0,15,0.88
+Megan,Lowder,282,bbus19,20,regular,17,2017,17,92,28,20-somethings,female,white,white,no,no,na,na,straight,no,phoenix,AZ,1,no,no,8,1,na,na,na,no,0,8,2,8,8,1.14,1.14,no,no,yes,0,0,0,1,0,16,0.94
+Cameron,Heard,283,bbus19,20,regular,17,2017,17,92,24,20-somethings,male,white,white,no,no,na,na,straight,no,woodbridge,IL,1,yes,no,1,0,30,29,4.142857143,no,0,1,1,1,1,0.14,0.14,no,no,no,0,0,0,1,0,17,1.00
+Marissa,Winokur,284,cbbus1,21,celebrity,1,2018,11,26,45,40-somethings,female,white,white,no,no,na,na,straight,no,toluca lake,CA,1,no,no,26,4,na,na,na,final,0,26,4,26,26,3.71,3.71,no,no,no,1,1,0,2,2,1,0.09
+Ross,Matthews,285,cbbus1,21,celebrity,1,2018,11,26,38,30-somethings,male,white,white,no,no,na,na,gay,no,palm springs,CA,1,no,no,26,4,na,na,na,final,0,26,4,26,26,3.71,3.71,yes,no,no,2,3,0,3,5,2,0.18
+Mark,McGrath,286,cbbus1,21,celebrity,1,2018,11,26,49,40-somethings,male,white,white,no,no,na,na,straight,no,studio city,CA,1,no,no,26,4,na,na,na,yes,0,26,4,26,26,3.71,3.71,no,no,no,1,0,0,2,1,3,0.27
+Ariadna,Gutierrez,287,cbbus1,21,celebrity,1,2018,11,26,24,20-somethings,female,latinx,other-latinx,yes,no,na,na,straight,no,miami,FL,1,no,no,26,4,na,na,na,yes,0,26,4,26,26,3.71,3.71,no,no,no,1,1,0,3,2,4,0.36
+Omarosa,Manigault,288,cbbus1,21,celebrity,1,2018,11,26,44,40-somethings,female,black,black,no,no,na,na,straight,no,jacksonville,FL,1,no,no,26,4,na,na,na,yes,0,26,4,26,26,3.71,3.71,no,no,no,2,0,0,2,2,5,0.45
+James,Maslow,289,cbbus1,21,celebrity,1,2018,11,26,27,20-somethings,male,white,white,no,no,na,na,straight,no,venice,CA,1,no,no,24,3,na,na,na,yes,0,24,4,24,24,3.43,3.43,no,no,no,0,1,0,3,1,6,0.55
+Brandi,Glanville,290,cbbus1,21,celebrity,1,2018,11,26,45,40-somethings,female,white,white,no,no,na,na,bisexual,no,los angeles,CA,1,no,no,24,3,na,na,na,yes,0,24,4,24,24,3.43,3.43,no,no,no,0,0,0,2,0,7,0.64
+Metta,World Peace,291,cbbus1,21,celebrity,1,2018,11,26,38,30-somethings,male,black,black,no,no,na,na,straight,no,los angeles,CA ,1,no,no,40,6,na,na,na,yes,0,40,6,40,40,5.71,5.71,no,no,no,0,0,0,1,0,8,0.73
+Shannon,Elizabeth,292,cbbus1,21,celebrity,1,2018,11,26,44,40-somethings,female,white,white,no,no,na,na,straight,no,capetown,South Africa,1,no,no,17,2,na,na,na,yes,0,17,3,17,17,2.43,2.43,no,no,no,1,1,0,1,2,9,0.82
+Keshia,Pulliam,293,cbbus1,21,celebrity,1,2018,11,26,38,30-somethings,female,black,black,no,no,na,na,straight,no,atlanta,GA,1,no,no,13,2,na,na,na,yes,0,13,2,13,13,1.86,1.86,no,no,no,1,0,0,1,1,10,0.91
+Chuck,Liddell,294,cbbus1,21,celebrity,1,2018,11,26,48,40-somethings,male,white,white,no,no,na,na,straight,no,calabasas,CA,1,no,no,10,1,na,na,na,yes,0,10,2,10,10,1.43,1.43,no,no,no,0,0,0,1,0,11,1.00
+Kaycee,Clark,295,bbus20,22,regular,18,2018,16,99,30,30-somethings,female,asian,asian,no,no,na,na,lesbian,no,tempe,AZ,1,no,no,99,14,na,na,na,final,0,99,15,99,99,14.14,14.14,n ,no,no,5,2,0,2,7,1,0.06
+Tyler,Crispen,296,bbus20,22,regular,18,2018,16,99,23,20-somethings,male,white,white,no,no,na,na,straight,no,hilton head,SC,1,no,no,99,14,na,na,na,final,0,99,15,99,99,14.14,14.14,yes,no,no,3,3,0,3,6,2,0.13
+JC,Mounduix,297,bbus20,22,regular,18,2018,16,99,28,20-somethings,male,hispanic,white-latinx,yes,no,na,na,gay,no,west hollywood,CA,1,no,no,99,14,na,na,na,yes,0,99,15,99,99,14.14,14.14,no,no,no,0,1,0,3,1,3,0.19
+Angela,Rummans,298,bbus20,22,regular,18,2018,16,99,26,20-somethings,female,white,white,no,no,na,na,straight,no,playa vista,CA,1,no,no,93,13,na,na,na,yes,6,93,15,99,93,14.14,13.29,no,no,no,2,3,0,2,5,4,0.25
+"Samantha ""Sam""",Bledsoe,299,bbus20,22,regular,18,2018,16,99,27,20-somethings,female,white,white,no,no,na,na,straight,no,stuarts draft,VA,1,no,no,91,13,na,na,na,yes,8,91,15,99,91,14.14,13.00,no,no,no,0,1,0,4,1,5,0.31
+Brett,Robinson,300,bbus20,22,regular,18,2018,16,99,25,20-somethings,male,white,white,no,no,na,na,straight,no,charlestown,MA,1,no,no,86,12,na,na,na,yes,13,86,15,99,86,14.14,12.29,no,no,no,1,0,0,4,1,6,0.38
+Haleigh,Broucher,301,bbus20,22,regular,18,2018,16,99,21,20-somethings,female,white,white,no,no,na,na,straight,no,college station,TX,1,no,no,86,12,na,na,na,yes,13,86,15,99,86,14.14,12.29,no,no,no,0,1,0,4,1,7,0.44
+Scottie,Salton,302,bbus20,22,regular,18,2018,16,99,26,20-somethings,male,white,white,no,no,na,na,straight,no,chicago,IL,1,yes,yes,65,9,72,7,1,yes,34,65,15,99,58,14.14,8.29,no,no,no,1,1,0,4,2,8,0.50
+Faysal,Shafaat,303,bbus20,22,regular,18,2018,16,99,26,20-somethings,male,middle eastern,middle eastern,no,no,na,na,straight,no,orlando,FL,1,yes,no,72,10,72,0,0,yes,27,72,15,99,72,14.14,10.29,no,no,no,2,1,0,1,3,9,0.56
+"Angie ""Rockstar""",Lantry,304,bbus20,22,regular,18,2018,16,99,34,30-somethings,female,white,white,no,no,na,na,straight,no,columbia,MD,1,yes,no,58,8,72,14,2,yes,41,58,15,99,58,14.14,8.29,no,no,no,0,0,0,3,0,10,0.63
+Bayleigh,Dayton,305,bbus20,22,regular,18,2018,16,99,25,20-somethings,female,black,black,no,no,na,na,straight,no,atlanta,GA,1,yes,no,51,7,72,21,3,yes,48,51,15,99,51,14.14,7.29,no,no,no,0,1,0,1,1,11,0.69
+Rachel,Swindler,306,bbus20,22,regular,18,2018,16,99,29,20-somethings,female,white,white,no,no,na,na,unknown,no,las vegas,NV,1,no,no,44,6,na,na,na,no,0,44,7,44,44,6.29,6.29,no,no,no,0,0,0,1,0,12,0.75
+Kaitlyn,Herman,307,bbus20,22,regular,18,2018,16,99,24,20-somethings,female,white,white,no,no,na,na,straight,no,encino,CA,1,no,no,37,5,na,na,na,no,0,37,6,37,37,5.29,5.29,no,no,no,0,1,0,1,1,13,0.81
+Winston,Hines,308,bbus20,22,regular,18,2018,16,99,28,20-somethings,male,white,white,no,no,na,na,straight,no,bowling green,KY,1,no,no,30,4,na,na,na,no,0,30,5,30,30,4.29,4.29,no,no,no,0,0,0,2,0,14,0.88
+"Chris ""Swaggy C""",WIlliams,309,bbus20,22,regular,18,2018,16,99,23,20-somethings,male,black,black,no,no,na,na,straight,no,bridgeport,CT,1,no,no,23,3,na,na,na,no,0,23,4,23,23,3.29,3.29,no,no,no,0,0,0,1,0,15,0.94
+Steve,Arienta,310,bbus20,22,regular,18,2018,16,99,40,40-somethings,male,pacific islander,biracial,no,yes,pacific islander,white,straight,no,wanaque,NJ,1,no,no,16,2,na,na,na,no,0,16,3,16,16,2.29,2.29,no,no,no,0,0,0,1,0,16,1.00
+Tamar,Braxton,311,cbbus2,23,celebrity,2,2019,12,29,41,40-somethings,female,black,black,no,no,na,na,straight,no,los angeles,CA,1,no,no,29,4,na,na,na,final,0,29,5,29,29,4.14,4.14,no,no,no,1,1,0,2,2,1,0.08
+Ricky,Williams,312,cbbus2,23,celebrity,2,2019,12,29,41,40-somethings,male,black,black,no,no,na,na,straight,no,venice beach,CA,1,no,no,29,4,na,na,na,final,0,29,5,29,29,4.14,4.14,no,no,no,1,2,0,1,3,2,0.17
+Lolo,Jones,313,cbbus2,23,celebrity,2,2019,12,29,36,30-somethings,female,black,biracial,no,yes,black,white,straight,no,baton rouge,LA,1,no,no,29,4,na,na,na,yes,0,29,5,29,29,4.14,4.14,no,no,no,2,1,0,2,3,3,0.25
+Dina,Lohan,314,cbbus2,23,celebrity,2,2019,12,29,56,50+,female,white,white,no,no,na,na,straight,no,long island,NY,1,no,no,29,4,na,na,na,yes,0,29,5,29,29,4.14,4.14,no,no,no,0,0,0,3,0,4,0.33
+Kandi,Burruss,315,cbbus2,23,celebrity,2,2019,12,29,42,40-somethings,female,black,black,no,no,na,na,straight,no,atlanta,GA,1,no,no,29,4,na,na,na,yes,0,29,5,29,29,4.14,4.14,no,no,no,0,0,0,4,0,5,0.42
+Tom,Green,316,cbbus2,23,celebrity,2,2019,12,29,47,40-somethings,male,white,white,no,no,na,na,straight,no,los angeles,CA,1,no,no,24,3,na,na,na,yes,5,24,5,29,24,4.14,3.43,yes,no,no,2,2,0,4,4,6,0.50
+"Natalie ""Eva Marie""",Marie,317,cbbus2,23,celebrity,2,2019,12,29,34,30-somethings,female,latinx,other-latinx,yes,no,na,na,straight,no,north tustin,CA,1,no,no,24,3,na,na,na,yes,5,24,5,29,24,4.14,3.43,no,no,no,1,0,0,1,1,7,0.58
+Kato,Kaelin,318,cbbus2,23,celebrity,2,2019,12,29,59,50+,male,white,white,no,no,na,na,straight,no,los angeles,CA,1,no,no,20,3,na,na,na,yes,9,20,5,29,20,4.14,2.86,no,no,no,1,1,0,1,2,8,0.67
+Joey,Lawrence,319,cbbus2,23,celebrity,2,2019,12,29,42,40-somethings,male,white,white,no,no,na,na,straight,no,los angeles,CA,1,no,no,18,3,na,na,na,yes,11,18,5,29,18,4.14,2.57,no,no,no,0,0,0,2,0,9,0.75
+Ryan,Lochte,320,cbbus2,23,celebrity,2,2019,12,29,34,30-somethings,male,white,white,no,no,na,na,straight,no,gainesville,FL,1,no,no,13,2,na,na,na,yes,16,13,5,29,13,4.14,1.86,no,no,no,0,1,0,1,1,10,0.83
+Jonathan,Bennett,321,cbbus2,23,celebrity,2,2019,12,29,37,30-somethings,male,white,white,no,no,na,na,gay,no,newport beach,CA,1,no,no,10,1,na,na,na,yes,19,10,5,29,10,4.14,1.43,no,no,no,0,0,0,2,0,11,0.92
+Anthony,Scaramucci,322,cbbus2,23,celebrity,2,2019,12,29,55,50+,male,white,white,no,no,na,na,straight,no,manhasset,NY,1,no,no,6,1,na,na,na,yes,23,6,5,29,6,4.14,0.86,no,no,no,0,0,0,1,0,12,1.00
+Analyse,Talvera,323,bbus21,24,regular,19,2019,16,99,22,20-somethings,female,unknown,unknown,no,no,na,na,straight,no,simi valley,CA,1,no,no,,0,na,na,na,,0,,0,0,,0.00,0.00,,no,no,,,0,,0,,
+Christie,Murphy,324,bbus21,24,regular,19,2019,16,99,28,20-somethings,female,white,white,no,no,na,na,bisexual,no,keyport,NJ,1,no,no,,0,na,na,na,,0,,0,0,,0.00,0.00,,no,no,,,0,,0,,
+Holly,Allen,325,bbus21,24,regular,19,2019,16,99,31,30-somethings,female,white,white,no,no,na,na,straight,no,los angeles,CA,1,no,no,,0,na,na,na,,0,,0,0,,0.00,0.00,,no,no,,,0,,0,,
+Isabella,Wang,326,bbus21,24,regular,19,2019,16,99,22,20-somethings,female,asian,asian,no,no,na,na,straight,no,los angeles,CA,1,no,no,,0,na,na,na,,0,,0,0,,0.00,0.00,,no,no,,,0,,0,,
+Jack,Mathews,327,bbus21,24,regular,19,2019,16,99,28,20-somethings,male,unknown,unknown,no,no,na,na,straight,no,tampa,FL,1,no,no,,0,na,na,na,,0,,0,0,,0.00,0.00,,no,no,,,0,,0,,
+Jackson,Michie,328,bbus21,24,regular,19,2019,16,99,24,20-somethings,male,white,white,no,no,na,na,straight,no,los angeles,CA,1,no,no,,0,na,na,na,,0,,0,0,,0.00,0.00,,no,no,,,0,,0,,
+Jessica,Milagros,329,bbus21,24,regular,19,2019,16,99,37,30-somethings,female,latinx,other-latinx,yes,no,na,na,straight,no,oak park,IL,1,no,no,,0,na,na,na,,0,,0,0,,0.00,0.00,,no,no,,,0,,0,,
+Kat,Dunn,330,bbus21,24,regular,19,2019,16,99,29,20-somethings,female,white,white,no,no,na,na,straight,no,dallas,TX,1,no,no,,0,na,na,na,,0,,0,0,,0.00,0.00,,no,no,,,0,,0,,
+Nick,Maccarone,331,bbus21,24,regular,19,2019,16,99,27,20-somethings,male,white,white,no,no,na,na,straight,no,sewell,NJ,1,no,no,,0,na,na,na,,0,,0,0,,0.00,0.00,,no,no,,,0,,0,,
+Nicole,Anthony,332,bbus21,24,regular,19,2019,16,99,24,20-somethings,female,white,white,no,no,na,na,straight,no,long island,NY,1,no,no,,0,na,na,na,,0,,0,0,,0.00,0.00,,no,no,,,0,,0,,
+Sam,Smith,333,bbus21,24,regular,19,2019,16,99,31,30-somethings,male,white,white,no,no,na,na,straight,no,mountain top,PA,1,no,no,,0,na,na,na,,0,,0,0,,0.00,0.00,,no,no,,,0,,0,,
+Tommy,Bracco,334,bbus21,24,regular,19,2019,16,99,28,20-somethings,male,white,white,no,no,na,na,gay,no,staten island,NY,1,no,no,,0,na,na,na,,0,,0,0,,0.00,0.00,,no,no,,,0,,0,,
+Cliff,Hogg,335,bbus21,24,regular,19,2019,16,99,53,50+,male,white,white,no,no,na,na,straight,no,houston,TX,1,yes,yes,,0,30,30,4.285714286,,0,,0,0,-30,0.00,-4.29,,no,no,,,0,,0,,
+Kemi,Fakunle,336,bbus21,24,regular,19,2019,16,99,25,20-somethings,female,black,black,no,no,na,na,straight,no,brooklyn,NY,1,yes,no,,0,30,30,4.285714286,,0,,0,0,,0.00,0.00,,no,no,,,0,,0,,
+Ovi,Kabir,337,bbus21,24,regular,19,2019,16,99,22,20-somethings,male,asian,asian,no,no,na,na,straight,no,knoxville,TN,1,yes,no,,0,30,30,4.285714286,,0,,0,0,,0.00,0.00,,no,no,,,0,,0,,
+David,Alexander,338,bbus21,24,regular,19,2019,16,99,29,20-somethings,male,black,black,no,no,na,na,straight,no,atlanta,GA,1,yes,no,,0,30,30,4.285714286,,0,,0,0,,0.00,0.00,,no,no,,,0,,0,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,,0,,0,0,,0.00,0.00,,,,,,,,0,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,,0,,0,0,,0.00,0.00,,,,,,,,0,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,,0,,0,0,,0.00,0.00,,,,,,,,0,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,,0,,0,0,,0.00,0.00,,,,,,,,0,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,,0,,0,0,,0.00,0.00,,,,,,,,0,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,,0,,0,0,,0.00,0.00,,,,,,,,0,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,,0,,0,0,,0.00,0.00,,,,,,,,0,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,,0,,0,0,,0.00,0.00,,,,,,,,0,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,,0,,0,0,,0.00,0.00,,,,,,,,0,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,,0,,0,0,,0.00,0.00,,,,,,,,0,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,,0,,0,0,,0.00,0.00,,,,,,,,0,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,,0,,0,0,,0.00,0.00,,,,,,,,0,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,,0,,0,0,,0.00,0.00,,,,,,,,0,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,,0,,0,0,,0.00,0.00,,,,,,,,0,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,,0,,0,0,,0.00,0.00,,,,,,,,0,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,,0,,0,0,,0.00,0.00,,,,,,,,0,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,,0,,0,0,,0.00,0.00,,,,,,,,0,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,,0,,0,0,,0.00,0.00,,,,,,,,0,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,,0,,0,0,,0.00,0.00,,,,,,,,0,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,,0,,0,0,,0.00,0.00,,,,,,,,0,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,,0,,0,0,,0.00,0.00,,,,,,,,0,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,,0,,0,0,,0.00,0.00,,,,,,,,0,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,,0,,0,0,,0.00,0.00,,,,,,,,0,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,,0,,0,0,,0.00,0.00,,,,,,,,0,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,,0,,0,0,,0.00,0.00,,,,,,,,0,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,,0,,0,0,,0.00,0.00,,,,,,,,0,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,,0,,0,0,,0.00,0.00,,,,,,,,0,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,,0,,0,0,,0.00,0.00,,,,,,,,0,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,,0,,0,0,,0.00,0.00,,,,,,,,0,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,,0,,0,0,,0.00,0.00,,,,,,,,0,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,,0,,0,0,,0.00,0.00,,,,,,,,0,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,,0,,0,0,,0.00,0.00,,,,,,,,0,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,,0,,0,0,,0.00,0.00,,,,,,,,0,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,,0,,0,0,,0.00,0.00,,,,,,,,0,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,,0,,0,0,,0.00,0.00,,,,,,,,0,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,,0,,0,0,,0.00,0.00,,,,,,,,0,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,,0,,0,0,,0.00,0.00,,,,,,,,0,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,,0,,0,0,,0.00,0.00,,,,,,,,0,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,,0,,0,0,,0.00,0.00,,,,,,,,0,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,,0,,0,0,,0.00,0.00,,,,,,,,0,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,,0,,0,0,,0.00,0.00,,,,,,,,0,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,,0,,0,0,,0.00,0.00,,,,,,,,0,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,,0,,0,0,,0.00,0.00,,,,,,,,0,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,,0,,0,0,,0.00,0.00,,,,,,,,0,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,,0,,0,0,,0.00,0.00,,,,,,,,0,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,,0,,0,0,,0.00,0.00,,,,,,,,0,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,,0,,0,0,,0.00,0.00,,,,,,,,0,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,,0,,0,0,,0.00,0.00,,,,,,,,0,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,,0,,0,0,,0.00,0.00,,,,,,,,0,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,,0,,0,0,,0.00,0.00,,,,,,,,0,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,,0,,0,0,,0.00,0.00,,,,,,,,0,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,,0,,0,0,,0.00,0.00,,,,,,,,0,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,,0,,0,0,,0.00,0.00,,,,,,,,0,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,,0,,0,0,,0.00,0.00,,,,,,,,0,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,,0,,0,0,,0.00,0.00,,,,,,,,0,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,,0,,0,0,,0.00,0.00,,,,,,,,0,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,,0,,0,0,,0.00,0.00,,,,,,,,0,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,,0,,0,0,,0.00,0.00,,,,,,,,0,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,
