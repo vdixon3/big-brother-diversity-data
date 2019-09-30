@@ -12,4 +12,4 @@ Contains entropy and ratio calcuations, measuring ethnic diversity.
  h<sub>i</sub>= - ∑ <sup>k</sup><sub>j=1</sub> P<sub>ij</sub> ln(P<sub>ij</sub>)
  
  **Full methodology:**
- TK
+ https://vincedixonportfolio.com/2019/08/29/methodology-behind-big-brother-diversity-data-dive/
