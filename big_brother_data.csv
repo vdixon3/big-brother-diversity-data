@@ -321,19 +321,19 @@ Joey,Lawrence,319,cbbus2,23,celebrity,2,2019,12,29,42,40-somethings,male,white,w
 Ryan,Lochte,320,cbbus2,23,celebrity,2,2019,12,29,34,30-somethings,male,latinx,biracial-latinx,yes,no,na,na,non-lgbt,no,gainesville,FL,1,no,no,13,2,na,na,na,yes,16,13,5,29,13,4.14,1.86,no,no,no,0,1,0,1,1,10,0.83
 Jonathan,Bennett,321,cbbus2,23,celebrity,2,2019,12,29,37,30-somethings,male,white,white,no,no,na,na,gay,no,newport beach,CA,1,no,no,10,1,na,na,na,yes,19,10,5,29,10,4.14,1.43,no,no,no,0,0,0,2,0,11,0.92
 Anthony,Scaramucci,322,cbbus2,23,celebrity,2,2019,12,29,55,50+,male,white,white,no,no,na,na,non-lgbt,no,manhasset,NY,1,no,no,6,1,na,na,na,yes,23,6,5,29,6,4.14,0.86,no,no,no,0,0,0,1,0,12,1.00
-Analyse,Talvera,323,bbus21,24,regular,19,2019,16,99,22,20-somethings,female,unknown,unknown,no,no,na,na,non-lgbt,no,simi valley,CA,1,no,no,,0,na,na,na,,0,,0,0,,0.00,0.00,,no,no,,,0,,0,,
-Christie,Murphy,324,bbus21,24,regular,19,2019,16,99,28,20-somethings,female,white,white,no,no,na,na,bisexual,no,keyport,NJ,1,no,no,,0,na,na,na,,0,,0,0,,0.00,0.00,,no,no,,,0,,0,,
-Holly,Allen,325,bbus21,24,regular,19,2019,16,99,31,30-somethings,female,white,white,no,no,na,na,non-lgbt,no,los angeles,CA,1,no,no,,0,na,na,na,,0,,0,0,,0.00,0.00,,no,no,,,0,,0,,
-Isabella,Wang,326,bbus21,24,regular,19,2019,16,99,22,20-somethings,female,asian,asian,no,no,na,na,non-lgbt,no,los angeles,CA,1,no,no,,0,na,na,na,,0,,0,0,,0.00,0.00,,no,no,,,0,,0,,
-Jack,Mathews,327,bbus21,24,regular,19,2019,16,99,28,20-somethings,male,unknown,unknown,no,no,na,na,non-lgbt,no,tampa,FL,1,no,no,,0,na,na,na,,0,,0,0,,0.00,0.00,,no,no,,,0,,0,,
-Jackson,Michie,328,bbus21,24,regular,19,2019,16,99,24,20-somethings,male,white,white,no,no,na,na,non-lgbt,no,los angeles,CA,1,no,no,,0,na,na,na,,0,,0,0,,0.00,0.00,,no,no,,,0,,0,,
-Jessica,Milagros,329,bbus21,24,regular,19,2019,16,99,37,30-somethings,female,latinx,other-latinx,yes,no,na,na,non-lgbt,no,oak park,IL,1,no,no,,0,na,na,na,,0,,0,0,,0.00,0.00,,no,no,,,0,,0,,
-Kat,Dunn,330,bbus21,24,regular,19,2019,16,99,29,20-somethings,female,white,white,no,no,na,na,non-lgbt,no,dallas,TX,1,no,no,,0,na,na,na,,0,,0,0,,0.00,0.00,,no,no,,,0,,0,,
-Nick,Maccarone,331,bbus21,24,regular,19,2019,16,99,27,20-somethings,male,white,white,no,no,na,na,non-lgbt,no,sewell,NJ,1,no,no,,0,na,na,na,,0,,0,0,,0.00,0.00,,no,no,,,0,,0,,
-Nicole,Anthony,332,bbus21,24,regular,19,2019,16,99,24,20-somethings,female,white,white,no,no,na,na,non-lgbt,no,long island,NY,1,no,no,,0,na,na,na,,0,,0,0,,0.00,0.00,,no,no,,,0,,0,,
-Sam,Smith,333,bbus21,24,regular,19,2019,16,99,31,30-somethings,male,white,white,no,no,na,na,non-lgbt,no,mountain top,PA,1,no,no,,0,na,na,na,,0,,0,0,,0.00,0.00,,no,no,,,0,,0,,
-Tommy,Bracco,334,bbus21,24,regular,19,2019,16,99,28,20-somethings,male,white,white,no,no,na,na,gay,no,staten island,NY,1,no,no,,0,na,na,na,,0,,0,0,,0.00,0.00,,no,no,,,0,,0,,
-Cliff,Hogg,335,bbus21,24,regular,19,2019,16,99,53,50+,male,white,white,no,no,na,na,non-lgbt,no,houston,TX,1,yes,yes,,0,30,30,4.285714286,,0,,0,0,-30,0.00,-4.29,,no,no,,,0,,0,,
-Kemi,Fakunle,336,bbus21,24,regular,19,2019,16,99,25,20-somethings,female,black,black,no,no,na,na,non-lgbt,no,brooklyn,NY,1,yes,no,,0,30,30,4.285714286,,0,,0,0,,0.00,0.00,,no,no,,,0,,0,,
-Ovi,Kabir,337,bbus21,24,regular,19,2019,16,99,22,20-somethings,male,asian,asian,no,no,na,na,non-lgbt,no,knoxville,TN,1,yes,no,,0,30,30,4.285714286,,0,,0,0,,0.00,0.00,,no,no,,,0,,0,,
-David,Alexander,338,bbus21,24,regular,19,2019,16,99,29,20-somethings,male,black,black,no,no,na,na,non-lgbt,no,atlanta,GA,1,yes,no,,0,30,30,4.285714286,,0,,0,0,,0.00,0.00,,no,no,,,0,,0,,
+Jackson,Michie,328,bbus21,24,regular,19,2019,16,99,24,20-somethings,male,white,white,no,no,na,na,non-lgbt,no,los angeles,CA,1,no,no,99,14,na,na,na,final,0,99,15,99,99,14.14,14.14,no,no,no,4,4,2,3,13,1,0.06
+Holly,Allen,325,bbus21,24,regular,19,2019,16,99,31,30-somethings,female,white,white,no,no,na,na,non-lgbt,no,los angeles,CA,1,no,no,99,14,na,na,na,final,0,99,15,99,99,14.14,14.14,no,no,no,0,2,0,3,5,2,0.13
+Nicole,Anthony,332,bbus21,24,regular,19,2019,16,99,24,20-somethings,female,white,white,no,no,na,na,non-lgbt,no,long island,NY,1,no,no,99,14,na,na,na,yes,0,99,15,99,99,14.14,14.14,yes,no,no,1,2,0,1,4,3,0.19
+Cliff,Hogg,335,bbus21,24,regular,19,2019,16,99,53,50+,male,white,white,no,no,na,na,non-lgbt,no,houston,TX,1,yes,yes,30,4,30,0,0,yes,6,93,15,99,93,14.14,13.29,no,no,no,1,1,0,5,7,4,0.25
+Tommy,Bracco,334,bbus21,24,regular,19,2019,16,99,28,20-somethings,male,white,white,no,no,na,na,gay,no,staten island,NY,1,no,no,86,12,na,na,na,yes,13,86,15,99,86,14.14,12.29,no,no,no,2,1,0,2,5,5,0.31
+Christie,Murphy,324,bbus21,24,regular,19,2019,16,99,28,20-somethings,female,white,white,no,no,na,na,bisexual,no,keyport,NJ,1,no,no,79,11,na,na,na,yes,20,79,15,99,79,14.14,11.29,no,no,no,0,1,1,5,7,6,0.38
+"Jessica ""Jess""",Milagros,329,bbus21,24,regular,19,2019,16,99,37,30-somethings,female,latinx,other-latinx,yes,no,na,na,non-lgbt,no,oak park,IL,1,no,no,79,11,na,na,na,yes,20,79,15,99,79,14.14,11.29,no,no,no,1,1,0,2,4,7,0.44
+Nick,Maccarone,331,bbus21,24,regular,19,2019,16,99,27,20-somethings,male,white,white,no,no,na,na,non-lgbt,no,sewell,NJ,1,no,no,72,10,na,na,na,yes,27,72,15,99,72,14.14,10.29,no,no,no,1,1,0,2,4,8,0.50
+Analyse,Talvera,323,bbus21,24,regular,19,2019,16,99,22,20-somethings,female,unknown,unknown,no,no,na,na,non-lgbt,no,simi valley,CA,1,no,no,65,9,na,na,na,yes,34,65,15,99,65,14.14,9.29,no,no,no,0,0,0,1,1,9,0.56
+"Kathryn ""Kat""",Dunn,330,bbus21,24,regular,19,2019,16,99,29,20-somethings,female,white,white,no,no,na,na,non-lgbt,no,dallas,TX,1,no,no,58,8,na,na,na,yes,41,58,15,99,58,14.14,8.29,no,no,no,1,0,0,3,4,10,0.63
+Jack,Mathews,327,bbus21,24,regular,19,2019,16,99,28,20-somethings,male,unknown,unknown,no,no,na,na,non-lgbt,no,tampa,FL,1,no,no,51,7,na,na,na,yes,48,51,15,99,51,14.14,7.29,no,no,no,0,1,1,2,4,11,0.69
+Sam,Smith,333,bbus21,24,regular,19,2019,16,99,31,30-somethings,male,white,white,no,no,na,na,non-lgbt,no,mountain top,PA,1,no,no,44,6,na,na,na,no,0,44,7,44,44,6.29,6.29,no,no,no,2,0,0,1,3,12,0.75
+"Isabella ""Bella""",Wang,326,bbus21,24,regular,19,2019,16,99,22,20-somethings,female,asian,asian,no,no,na,na,non-lgbt,no,los angeles,CA,1,no,no,37,5,na,na,na,no,0,37,6,37,37,5.29,5.29,no,no,no,0,0,0,1,1,13,0.81
+Kemi,Fakunle,336,bbus21,24,regular,19,2019,16,99,25,20-somethings,female,black,black,no,no,na,na,non-lgbt,no,brooklyn,NY,1,yes,no,23,3,30,7,1,no,0,23,4,23,23,3.29,3.29,no,no,no,0,0,0,1,1,14,0.88
+Ovi,Kabir,337,bbus21,24,regular,19,2019,16,99,22,20-somethings,male,asian,asian,no,no,na,na,non-lgbt,no,knoxville,TN,1,yes,no,15,2,30,15,2.142857143,no,0,15,3,15,15,2.14,2.14,no,no,no,0,0,1,1,2,15,0.94
+David,Alexander,338,bbus21,24,regular,19,2019,16,99,29,20-somethings,male,black,black,no,no,na,na,non-lgbt,no,atlanta,GA,1,yes,no,1,0,30,29,4.142857143,no,0,1,1,1,1,0.14,0.14,no,no,no,0,0,0,0,0,16,1.00
