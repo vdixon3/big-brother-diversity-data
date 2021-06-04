@@ -15,5 +15,5 @@ Contains entropy and ratio calcuations, measuring ethnic diversity.
  https://vincedixonportfolio.com/2019/08/29/methodology-behind-big-brother-diversity-data-dive/
  
  **NOTE/UPDATE:**
-6/4/21: In previous versions of "big_brother_data" tallies for `total_wins` column for bbus16, bbus21 and bbus22 were mis-calulated, adding 'total_nominations' to the sum. This has been corrected. Names "Steven Moses" and "Jen DiTurno" have also been corrected. Special thanks to Brannon S. for pointing these out.
+6/4/21: In previous versions of "big_brother_data" tallies for `total_wins` column for bbus16, bbus21 and bbus22 were mis-calulated, adding `total_nominations` to the sum. This has been corrected. Names "Steven Moses" and "Jen DiTurno" have also been corrected. Special thanks to Brannon S. for pointing these out.
 
