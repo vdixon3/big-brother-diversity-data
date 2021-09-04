@@ -14,6 +14,9 @@ Contains entropy and ratio calcuations, measuring ethnic diversity.
  **Full methodology:**
  https://vincedixonportfolio.com/2019/08/29/methodology-behind-big-brother-diversity-data-dive/
  
- **NOTE/UPDATE:**
+ **NOTES/UPDATES:**
+9/3/21: big_brother_data: Updated race values for contestants Jessica Graf, Josh Martinez and Ryan Lochte and fixed misspelling in "original_race_ethnicity" field name
+big_brother_data_diversity: Old formula counted biracial Latinx contestants twice. New update corrects this, which affected white/poc ratios for seasons 11, 12 and 13
+
 6/4/21: In previous versions of "big_brother_data" tallies for `total_wins` column for bbus16, bbus21 and bbus22 were mis-calulated, adding `total_nominations` to the sum. This has been corrected. Names "Steven Moses" and "Jen DiTurno" have also been corrected. Special thanks to Brannon S. for pointing these out.
 
