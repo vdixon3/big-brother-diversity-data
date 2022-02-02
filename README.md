@@ -16,7 +16,7 @@ Contains entropy and ratio calcuations, measuring ethnic diversity.
  
  **NOTES/UPDATES:**
 
-2/1/22: big_brother_data: Updated values pertaining to "weeks." "Week" (i.e. "first_eviction_week") now refers actual weeks, always rounded up to next week. It may differ from Big Brother broadcast weeks. "Weeks" (i.e. "weeks_of_comeback_sequester") round up to nearest whole number.
+2/1/22: big_brother_data: Updated values pertaining to "weeks." "Week" (i.e. "first_eviction_week") now refers to actual weeks, rounded up to next week. It may differ from Big Brother broadcast weeks. "Weeks" (i.e. "weeks_of_comeback_sequester") round up to nearest whole number.
 
 *Note that "disability" refers to physical disability.
 
