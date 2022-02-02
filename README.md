@@ -15,7 +15,11 @@ Contains entropy and ratio calcuations, measuring ethnic diversity.
  https://vincedixonportfolio.com/2019/08/29/methodology-behind-big-brother-diversity-data-dive/
  
  **NOTES/UPDATES:**
- 
+
+2/1/22: big_brother_data: Updated values pertaining to "weeks." "Week" (i.e. "first_eviction_week") now refers actual weeks, always rounded up to next week. It may differ from Big Brother broadcast weeks. "Weeks" (i.e. "weeks_of_comeback_sequester") round up to nearest whole number.
+
+*Note that "disability" refers to physical disability.
+
 9/3/21: big_brother_data: Updated race values for contestants Jessica Graf, Josh Martinez and Ryan Lochte, and fixed misspelling in "original_race_ethnicity" field name.
 big_brother_data_diversity: Old formula counted biracial Latinx contestants twice. New update corrects this, which affected white/POC ratios for BBUS11, BBUS12 and BBUS13.
 
